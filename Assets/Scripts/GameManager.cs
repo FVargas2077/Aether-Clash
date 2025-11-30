@@ -58,13 +58,12 @@ public class GameManager : MonoBehaviour
         Paused = false;
         Time.timeScale = 1.0f;
         difficultyLevel = Setting.Get_DifficultyLevel();
-        DifficultyText.text = difficultyLevel.ToString();
     }
 
     public void PlayerLost()
     {
         PlayerIsDead = true;
-        InfoText.text = "You Lost!";
+        InfoText.text = "Perdiste!";
         CursorEnable();
         DisplayWinOrLoseMenu();
     }
@@ -144,7 +143,7 @@ public class GameManager : MonoBehaviour
             
         }
 
-        InfoText.text = "You win!";
+        InfoText.text = "Ganaste!";
         PlayerWon = true;
         DisplayWinOrLoseMenu();
     }

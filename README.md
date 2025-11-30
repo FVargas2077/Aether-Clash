@@ -2,11 +2,11 @@
 3D Fighting game simple prototype  game  in Unity <br>
 developed in Unity 2018.3.0f2 <br>
 
-<img src="Fighting-Survival/Assets/Screenshots/hit.png" width = 900>
+<img src="Assets/Screenshots/hit.png" width = 900>
 
-<img src="Fighting-Survival/Assets/Screenshots/hit3.png" width = 900>
+<img src="Assets/Screenshots/hit3.png" width = 900>
 
-<img src="Fighting-Survival/Assets/Screenshots/hit4.png" width = 900>
+<img src="Assets/Screenshots/hit4.png" width = 900>
 
 
 Next steps:<br>
