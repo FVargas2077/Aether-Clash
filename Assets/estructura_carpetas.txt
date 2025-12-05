@@ -1,0 +1,3256 @@
+Listado de rutas de carpetas
+El número de serie del volumen es 4EDC-76ED
+D:.
+¦   AnimationControllers.meta
+¦   Audio.meta
+¦   AudioMixer.meta
+¦   EditableAnimations.meta
+¦   epyphany.meta
+¦   estructura.txt
+¦   estructura.txt.meta
+¦   estructura_carpetas.txt
+¦   FightingMotionsVolume1.meta
+¦   GameSetting.meta
+¦   Martial Arts Assets Free.meta
+¦   Materials.meta
+¦   Models.meta
+¦   Prefabs.meta
+¦   SampleScenes.meta
+¦   Scenes.meta
+¦   Screenshots.meta
+¦   Scripts.meta
+¦   SkyBox Volume 2.meta
+¦   Sprites.meta
+¦   Standard Assets.meta
+¦   TextMesh Pro.meta
+¦   Textures.meta
+¦   Unity Recorder.meta
+¦   
++---AnimationControllers
+¦       Enemy1.controller
+¦       Enemy1.controller.meta
+¦       
++---Audio
+¦   ¦   FX.meta
+¦   ¦   Music.meta
+¦   ¦   
+¦   +---FX
+¦   ¦       DM-CGS-01.wav
+¦   ¦       DM-CGS-01.wav.meta
+¦   ¦       DM-CGS-02.wav
+¦   ¦       DM-CGS-02.wav.meta
+¦   ¦       DM-CGS-03.wav
+¦   ¦       DM-CGS-03.wav.meta
+¦   ¦       DM-CGS-04.wav
+¦   ¦       DM-CGS-04.wav.meta
+¦   ¦       DM-CGS-05.wav
+¦   ¦       DM-CGS-05.wav.meta
+¦   ¦       DM-CGS-06.wav
+¦   ¦       DM-CGS-06.wav.meta
+¦   ¦       DM-CGS-07.wav
+¦   ¦       DM-CGS-07.wav.meta
+¦   ¦       DM-CGS-08.wav
+¦   ¦       DM-CGS-08.wav.meta
+¦   ¦       DM-CGS-09.wav
+¦   ¦       DM-CGS-09.wav.meta
+¦   ¦       DM-CGS-10.wav
+¦   ¦       DM-CGS-10.wav.meta
+¦   ¦       DM-CGS-11.wav
+¦   ¦       DM-CGS-11.wav.meta
+¦   ¦       DM-CGS-12.wav
+¦   ¦       DM-CGS-12.wav.meta
+¦   ¦       DM-CGS-13.wav
+¦   ¦       DM-CGS-13.wav.meta
+¦   ¦       DM-CGS-14.wav
+¦   ¦       DM-CGS-14.wav.meta
+¦   ¦       DM-CGS-15.wav
+¦   ¦       DM-CGS-15.wav.meta
+¦   ¦       DM-CGS-16.wav
+¦   ¦       DM-CGS-16.wav.meta
+¦   ¦       DM-CGS-17.wav
+¦   ¦       DM-CGS-17.wav.meta
+¦   ¦       DM-CGS-18.wav
+¦   ¦       DM-CGS-18.wav.meta
+¦   ¦       DM-CGS-19.wav
+¦   ¦       DM-CGS-19.wav.meta
+¦   ¦       DM-CGS-20.wav
+¦   ¦       DM-CGS-20.wav.meta
+¦   ¦       DM-CGS-21.wav
+¦   ¦       DM-CGS-21.wav.meta
+¦   ¦       DM-CGS-22.wav
+¦   ¦       DM-CGS-22.wav.meta
+¦   ¦       DM-CGS-23.wav
+¦   ¦       DM-CGS-23.wav.meta
+¦   ¦       DM-CGS-24.wav
+¦   ¦       DM-CGS-24.wav.meta
+¦   ¦       DM-CGS-25.wav
+¦   ¦       DM-CGS-25.wav.meta
+¦   ¦       DM-CGS-26.wav
+¦   ¦       DM-CGS-26.wav.meta
+¦   ¦       DM-CGS-27.wav
+¦   ¦       DM-CGS-27.wav.meta
+¦   ¦       DM-CGS-28.wav
+¦   ¦       DM-CGS-28.wav.meta
+¦   ¦       DM-CGS-29.wav
+¦   ¦       DM-CGS-29.wav.meta
+¦   ¦       DM-CGS-30.wav
+¦   ¦       DM-CGS-30.wav.meta
+¦   ¦       DM-CGS-31.wav
+¦   ¦       DM-CGS-31.wav.meta
+¦   ¦       DM-CGS-32.wav
+¦   ¦       DM-CGS-32.wav.meta
+¦   ¦       DM-CGS-33.wav
+¦   ¦       DM-CGS-33.wav.meta
+¦   ¦       DM-CGS-34.wav
+¦   ¦       DM-CGS-34.wav.meta
+¦   ¦       DM-CGS-35.wav
+¦   ¦       DM-CGS-35.wav.meta
+¦   ¦       DM-CGS-36.wav
+¦   ¦       DM-CGS-36.wav.meta
+¦   ¦       DM-CGS-37.wav
+¦   ¦       DM-CGS-37.wav.meta
+¦   ¦       DM-CGS-38.wav
+¦   ¦       DM-CGS-38.wav.meta
+¦   ¦       DM-CGS-39.wav
+¦   ¦       DM-CGS-39.wav.meta
+¦   ¦       DM-CGS-40.wav
+¦   ¦       DM-CGS-40.wav.meta
+¦   ¦       DM-CGS-41.wav
+¦   ¦       DM-CGS-41.wav.meta
+¦   ¦       DM-CGS-42.wav
+¦   ¦       DM-CGS-42.wav.meta
+¦   ¦       DM-CGS-43.wav
+¦   ¦       DM-CGS-43.wav.meta
+¦   ¦       DM-CGS-44.wav
+¦   ¦       DM-CGS-44.wav.meta
+¦   ¦       DM-CGS-45.wav
+¦   ¦       DM-CGS-45.wav.meta
+¦   ¦       DM-CGS-46.wav
+¦   ¦       DM-CGS-46.wav.meta
+¦   ¦       DM-CGS-47.wav
+¦   ¦       DM-CGS-47.wav.meta
+¦   ¦       DM-CGS-48.wav
+¦   ¦       DM-CGS-48.wav.meta
+¦   ¦       DM-CGS-49.wav
+¦   ¦       DM-CGS-49.wav.meta
+¦   ¦       DM-CGS-50.wav
+¦   ¦       DM-CGS-50.wav.meta
+¦   ¦       KICK1.WAV
+¦   ¦       KICK1.WAV.meta
+¦   ¦       KICK2.WAV
+¦   ¦       KICK2.WAV.meta
+¦   ¦       KICK4.WAV
+¦   ¦       KICK4.WAV.meta
+¦   ¦       KICK5.WAV
+¦   ¦       KICK5.WAV.meta
+¦   ¦       KICK6.WAV
+¦   ¦       KICK6.WAV.meta
+¦   ¦       license.pdf
+¦   ¦       license.pdf.meta
+¦   ¦       PUNCH1.WAV
+¦   ¦       PUNCH1.WAV.meta
+¦   ¦       PUNCH2.WAV
+¦   ¦       PUNCH2.WAV.meta
+¦   ¦       PUNCH3.WAV
+¦   ¦       PUNCH3.WAV.meta
+¦   ¦       PUNCH4.WAV
+¦   ¦       PUNCH4.WAV.meta
+¦   ¦       PUNCH6.WAV
+¦   ¦       PUNCH6.WAV.meta
+¦   ¦       PUNCH7.WAV
+¦   ¦       PUNCH7.WAV.meta
+¦   ¦       
+¦   +---Music
+¦           Arcade Violence.wav
+¦           Arcade Violence.wav.meta
+¦           Camouflage Full Track.wav
+¦           Camouflage Full Track.wav.meta
+¦           heavy5_fade.mp3
+¦           heavy5_fade.mp3.meta
+¦           Overthrown.wav
+¦           Overthrown.wav.meta
+¦           Solar Overdrive (Short Loop 3).wav
+¦           Solar Overdrive (Short Loop 3).wav.meta
+¦           Strobe Bullets (Loop 4).wav
+¦           Strobe Bullets (Loop 4).wav.meta
+¦           Strobe Bullets Ambience (Full).wav
+¦           Strobe Bullets Ambience (Full).wav.meta
+¦           System Shock.mp3
+¦           System Shock.mp3.meta
+¦           War Machines (Loop).wav
+¦           War Machines (Loop).wav.meta
+¦           
++---AudioMixer
+¦       AudioMixer.mixer
+¦       AudioMixer.mixer.meta
+¦       
++---EditableAnimations
+¦   ¦   Enemy.meta
+¦   ¦   Player.meta
+¦   ¦   
+¦   +---Enemy
+¦   ¦       bk_push_left_A 1.anim
+¦   ¦       bk_push_left_A 1.anim.meta
+¦   ¦       bk_rh_right_A 1.anim
+¦   ¦       bk_rh_right_A 1.anim.meta
+¦   ¦       bp_hook_right_A 1.anim
+¦   ¦       bp_hook_right_A 1.anim.meta
+¦   ¦       bp_upper_left_A 1.anim
+¦   ¦       bp_upper_left_A 1.anim.meta
+¦   ¦       getup_A.anim
+¦   ¦       getup_A.anim.meta
+¦   ¦       hd_front_B.anim
+¦   ¦       hd_front_B.anim.meta
+¦   ¦       hk_rh_right_A 1.anim
+¦   ¦       hk_rh_right_A 1.anim.meta
+¦   ¦       hk_side_left_A 1.anim
+¦   ¦       hk_side_left_A 1.anim.meta
+¦   ¦       ho_hook_left_A 1.anim
+¦   ¦       ho_hook_left_A 1.anim.meta
+¦   ¦       hp_straight_A 1.anim
+¦   ¦       hp_straight_A 1.anim.meta
+¦   ¦       hp_straight_right_A 1.anim
+¦   ¦       hp_straight_right_A 1.anim.meta
+¦   ¦       hp_upper_right_A 1.anim
+¦   ¦       hp_upper_right_A 1.anim.meta
+¦   ¦       knockdown_A.anim
+¦   ¦       knockdown_A.anim.meta
+¦   ¦       knockdown_loop_A.anim
+¦   ¦       knockdown_loop_A.anim.meta
+¦   ¦       move_forward_B3.anim
+¦   ¦       move_forward_B3.anim.meta
+¦   ¦       win_A.anim
+¦   ¦       win_A.anim.meta
+¦   ¦       
+¦   +---Player
+¦           bk_push_left_A.anim
+¦           bk_push_left_A.anim.meta
+¦           bk_rh_right_A.anim
+¦           bk_rh_right_A.anim.meta
+¦           bp_hook_right_A.anim
+¦           bp_hook_right_A.anim.meta
+¦           bp_upper_left_A.anim
+¦           bp_upper_left_A.anim.meta
+¦           getup_A.anim
+¦           getup_A.anim.meta
+¦           hd_front_B 1.anim
+¦           hd_front_B 1.anim.meta
+¦           hk_rh_right_A.anim
+¦           hk_rh_right_A.anim.meta
+¦           hk_side_left_A.anim
+¦           hk_side_left_A.anim.meta
+¦           ho_hook_left_A.anim
+¦           ho_hook_left_A.anim.meta
+¦           hp_straight_A.anim
+¦           hp_straight_A.anim.meta
+¦           hp_straight_right_A.anim
+¦           hp_straight_right_A.anim.meta
+¦           hp_upper_right_A.anim
+¦           hp_upper_right_A.anim.meta
+¦           knockdown_A.anim
+¦           knockdown_A.anim.meta
+¦           knockdown_loop_A.anim
+¦           knockdown_loop_A.anim.meta
+¦           move_forward_B2.anim
+¦           move_forward_B2.anim.meta
+¦           win_A.anim
+¦           win_A.anim.meta
+¦           
++---epyphany
+¦   ¦   Materials.meta
+¦   ¦   Textures.meta
+¦   ¦   
+¦   +---Materials
+¦   ¦       menhir.mat
+¦   ¦       menhir.mat.meta
+¦   ¦       woodMushroom.mat
+¦   ¦       woodMushroom.mat.meta
+¦   ¦       
+¦   +---Textures
+¦           menhir.png
+¦           menhir.png.meta
+¦           menhirNorm.png
+¦           menhirNorm.png.meta
+¦           mud.png
+¦           mud.png.meta
+¦           NoiseNormalS.png
+¦           NoiseNormalS.png.meta
+¦           plaster.png
+¦           plaster.png.meta
+¦           plasterNorm2.png
+¦           plasterNorm2.png.meta
+¦           woodMushroom.png
+¦           woodMushroom.png.meta
+¦           woodMushroomEmi.png
+¦           woodMushroomEmi.png.meta
+¦           woodMushroomNorm.png
+¦           woodMushroomNorm.png.meta
+¦           
++---FightingMotionsVolume1
+¦   ¦   Animator.meta
+¦   ¦   FBX.meta
+¦   ¦   Materials.meta
+¦   ¦   Prefabs.meta
+¦   ¦   Scenes.meta
+¦   ¦   Textures.meta
+¦   ¦   
+¦   +---Animator
+¦   ¦       BlueGuy_Animator.controller
+¦   ¦       BlueGuy_Animator.controller.meta
+¦   ¦       
+¦   +---FBX
+¦   ¦   ¦   bb_front_A.fbx
+¦   ¦   ¦   bb_front_A.fbx.meta
+¦   ¦   ¦   bd_front_A.fbx
+¦   ¦   ¦   bd_front_A.fbx.meta
+¦   ¦   ¦   bk_push_left_A.fbx
+¦   ¦   ¦   bk_push_left_A.fbx.meta
+¦   ¦   ¦   bk_rh_right_A.fbx
+¦   ¦   ¦   bk_rh_right_A.fbx.meta
+¦   ¦   ¦   BlueGuy.fbx
+¦   ¦   ¦   BlueGuy.fbx.meta
+¦   ¦   ¦   bp_hook_right_A.fbx
+¦   ¦   ¦   bp_hook_right_A.fbx.meta
+¦   ¦   ¦   bp_upper_left_A.fbx
+¦   ¦   ¦   bp_upper_left_A.fbx.meta
+¦   ¦   ¦   getup_A.fbx
+¦   ¦   ¦   getup_A.fbx.meta
+¦   ¦   ¦   hb_front_A.fbx
+¦   ¦   ¦   hb_front_A.fbx.meta
+¦   ¦   ¦   hd_front_A.fbx
+¦   ¦   ¦   hd_front_A.fbx.meta
+¦   ¦   ¦   hd_front_B.fbx
+¦   ¦   ¦   hd_front_B.fbx.meta
+¦   ¦   ¦   hk_rh_right_A.fbx
+¦   ¦   ¦   hk_rh_right_A.fbx.meta
+¦   ¦   ¦   hk_side_left_A.fbx
+¦   ¦   ¦   hk_side_left_A.fbx.meta
+¦   ¦   ¦   hp_hook_left_A.fbx
+¦   ¦   ¦   hp_hook_left_A.fbx.meta
+¦   ¦   ¦   hp_hook_left_Tiramis.fbx
+¦   ¦   ¦   hp_hook_left_Tiramis.fbx.meta
+¦   ¦   ¦   hp_straight_left_A.fbx
+¦   ¦   ¦   hp_straight_left_A.fbx.meta
+¦   ¦   ¦   hp_straight_left_Tiramis.fbx
+¦   ¦   ¦   hp_straight_left_Tiramis.fbx.meta
+¦   ¦   ¦   hp_straight_right_A.fbx
+¦   ¦   ¦   hp_straight_right_A.fbx.meta
+¦   ¦   ¦   hp_upper_right_A.fbx
+¦   ¦   ¦   hp_upper_right_A.fbx.meta
+¦   ¦   ¦   idle_A.fbx
+¦   ¦   ¦   idle_A.fbx.meta
+¦   ¦   ¦   idle_Tiramis.fbx
+¦   ¦   ¦   idle_Tiramis.fbx.meta
+¦   ¦   ¦   knockdown_A.fbx
+¦   ¦   ¦   knockdown_A.fbx.meta
+¦   ¦   ¦   knockdown_loop_A.fbx
+¦   ¦   ¦   knockdown_loop_A.fbx.meta
+¦   ¦   ¦   lb_front_A.fbx
+¦   ¦   ¦   lb_front_A.fbx.meta
+¦   ¦   ¦   ld_front_A.fbx
+¦   ¦   ¦   ld_front_A.fbx.meta
+¦   ¦   ¦   lk_rh_left_A.fbx
+¦   ¦   ¦   lk_rh_left_A.fbx.meta
+¦   ¦   ¦   lk_rh_right_A.fbx
+¦   ¦   ¦   lk_rh_right_A.fbx.meta
+¦   ¦   ¦   lk_rh_right_Tiramis.fbx
+¦   ¦   ¦   lk_rh_right_Tiramis.fbx.meta
+¦   ¦   ¦   move_backward_B.fbx
+¦   ¦   ¦   move_backward_B.fbx.meta
+¦   ¦   ¦   move_forward_B.fbx
+¦   ¦   ¦   move_forward_B.fbx.meta
+¦   ¦   ¦   nomove.meta
+¦   ¦   ¦   win_A.fbx
+¦   ¦   ¦   win_A.fbx.meta
+¦   ¦   ¦   
+¦   ¦   +---nomove
+¦   ¦           bk_rh_right_A2.fbx
+¦   ¦           bk_rh_right_A2.fbx.meta
+¦   ¦           bp_hook_right_A2.fbx
+¦   ¦           bp_hook_right_A2.fbx.meta
+¦   ¦           bp_upper_left_A2.fbx
+¦   ¦           bp_upper_left_A2.fbx.meta
+¦   ¦           hk_rh_right_A2.fbx
+¦   ¦           hk_rh_right_A2.fbx.meta
+¦   ¦           hk_side_left_A2.fbx
+¦   ¦           hk_side_left_A2.fbx.meta
+¦   ¦           hp_straight_right_A2.fbx
+¦   ¦           hp_straight_right_A2.fbx.meta
+¦   ¦           hp_upper_right_A2.fbx
+¦   ¦           hp_upper_right_A2.fbx.meta
+¦   ¦           knockdown_A2.fbx
+¦   ¦           knockdown_A2.fbx.meta
+¦   ¦           lk_rh_left_A2.fbx
+¦   ¦           lk_rh_left_A2.fbx.meta
+¦   ¦           lk_rh_right_A2.fbx
+¦   ¦           lk_rh_right_A2.fbx.meta
+¦   ¦           move_backward_B2.fbx
+¦   ¦           move_backward_B2.fbx.meta
+¦   ¦           move_forward_B2.fbx
+¦   ¦           move_forward_B2.fbx.meta
+¦   ¦           
+¦   +---Materials
+¦   ¦       Blue.mat
+¦   ¦       Blue.mat.meta
+¦   ¦       PlaneMat.mat
+¦   ¦       PlaneMat.mat.meta
+¦   ¦       Red.mat
+¦   ¦       Red.mat.meta
+¦   ¦       
+¦   +---Prefabs
+¦   ¦       BlueGuy.prefab
+¦   ¦       BlueGuy.prefab.meta
+¦   ¦       Plane.prefab
+¦   ¦       Plane.prefab.meta
+¦   ¦       RedGuy.prefab
+¦   ¦       RedGuy.prefab.meta
+¦   ¦       
+¦   +---Scenes
+¦   ¦       AllMotions.unity
+¦   ¦       AllMotions.unity.meta
+¦   ¦       
+¦   +---Textures
+¦           plane.png
+¦           plane.png.meta
+¦           
++---GameSetting
+¦       Setting.asset
+¦       Setting.asset.meta
+¦       
++---Martial Arts Assets Free
+¦   ¦   Models.meta
+¦   ¦   Prefabs.meta
+¦   ¦   Scenes.meta
+¦   ¦   
+¦   +---Models
+¦   ¦   ¦   ma.fbx
+¦   ¦   ¦   ma.fbx.meta
+¦   ¦   ¦   Materials.meta
+¦   ¦   ¦   Model Materials.meta
+¦   ¦   ¦   
+¦   ¦   +---Materials
+¦   ¦   ¦       Beard.mat
+¦   ¦   ¦       Beard.mat.meta
+¦   ¦   ¦       Belt.mat
+¦   ¦   ¦       Belt.mat.meta
+¦   ¦   ¦       Boots.mat
+¦   ¦   ¦       Boots.mat.meta
+¦   ¦   ¦       Decorations.mat
+¦   ¦   ¦       Decorations.mat.meta
+¦   ¦   ¦       Gear.mat
+¦   ¦   ¦       Gear.mat.meta
+¦   ¦   ¦       Hair.mat
+¦   ¦   ¦       Hair.mat.meta
+¦   ¦   ¦       Helmet.mat
+¦   ¦   ¦       Helmet.mat.meta
+¦   ¦   ¦       Jacket.mat
+¦   ¦   ¦       Jacket.mat.meta
+¦   ¦   ¦       Mask.mat
+¦   ¦   ¦       Mask.mat.meta
+¦   ¦   ¦       Skin.mat
+¦   ¦   ¦       Skin.mat.meta
+¦   ¦   ¦       Trousers.mat
+¦   ¦   ¦       Trousers.mat.meta
+¦   ¦   ¦       
+¦   ¦   +---Model Materials
+¦   ¦           Black.mat
+¦   ¦           Black.mat.meta
+¦   ¦           Blue.mat
+¦   ¦           Blue.mat.meta
+¦   ¦           Brown.mat
+¦   ¦           Brown.mat.meta
+¦   ¦           Red Brown.mat
+¦   ¦           Red Brown.mat.meta
+¦   ¦           Red.mat
+¦   ¦           Red.mat.meta
+¦   ¦           White.mat
+¦   ¦           White.mat.meta
+¦   ¦           Yellow.mat
+¦   ¦           Yellow.mat.meta
+¦   ¦           
+¦   +---Prefabs
+¦   ¦       Assassin.prefab
+¦   ¦       Assassin.prefab.meta
+¦   ¦       Black Ninja.prefab
+¦   ¦       Black Ninja.prefab.meta
+¦   ¦       Boss 1.prefab
+¦   ¦       Boss 1.prefab.meta
+¦   ¦       Boss 2.prefab
+¦   ¦       Boss 2.prefab.meta
+¦   ¦       Guard 1.prefab
+¦   ¦       Guard 1.prefab.meta
+¦   ¦       Guard 2.prefab
+¦   ¦       Guard 2.prefab.meta
+¦   ¦       Guard 3.prefab
+¦   ¦       Guard 3.prefab.meta
+¦   ¦       Player 1.prefab
+¦   ¦       Player 1.prefab.meta
+¦   ¦       Player 2.prefab
+¦   ¦       Player 2.prefab.meta
+¦   ¦       Player 3.prefab
+¦   ¦       Player 3.prefab.meta
+¦   ¦       Trooper 1.prefab
+¦   ¦       Trooper 1.prefab.meta
+¦   ¦       Trooper 2.prefab
+¦   ¦       Trooper 2.prefab.meta
+¦   ¦       Trooper 3.prefab
+¦   ¦       Trooper 3.prefab.meta
+¦   ¦       White Ninja.prefab
+¦   ¦       White Ninja.prefab.meta
+¦   ¦       
+¦   +---Scenes
+¦           Demo Assets Scene.unity
+¦           Demo Assets Scene.unity.meta
+¦           
++---Materials
+¦       GroundMaterial.mat
+¦       GroundMaterial.mat.meta
+¦       Med-Kit_Material.mat
+¦       Med-Kit_Material.mat.meta
+¦       PaperMaterial.mat
+¦       PaperMaterial.mat.meta
+¦       piso.mat
+¦       piso.mat.meta
+¦       street_lamp_02.mat
+¦       street_lamp_02.mat.meta
+¦       street_lamp_02_bulb.mat
+¦       street_lamp_02_bulb.mat.meta
+¦       street_lamp_vidrio.mat
+¦       street_lamp_vidrio.mat.meta
+¦       woodMushroom-Dark.mat
+¦       woodMushroom-Dark.mat.meta
+¦       woodMushroom-Light.mat
+¦       woodMushroom-Light.mat.meta
+¦       
++---Models
+¦       ChineseAntiqueStatue.fbx
+¦       ChineseAntiqueStatue.fbx.meta
+¦       Dojo-Door.fbx
+¦       Dojo-Door.fbx.meta
+¦       Dojo-Window.fbx
+¦       Dojo-Window.fbx.meta
+¦       DojoGround.fbx
+¦       DojoGround.fbx.meta
+¦       FightingGround.fbx
+¦       FightingGround.fbx.meta
+¦       Japanese_Rice_Cake.fbx
+¦       Japanese_Rice_Cake.fbx.meta
+¦       Med-Kit.fbx
+¦       Med-Kit.fbx.meta
+¦       street_lamp_02_2k.fbx
+¦       street_lamp_02_2k.fbx.meta
+¦       TheDojo.fbx
+¦       TheDojo.fbx.meta
+¦       
++---Prefabs
+¦       ChineseAntiqueStatueObject.prefab
+¦       ChineseAntiqueStatueObject.prefab.meta
+¦       DarkColorWood.prefab
+¦       DarkColorWood.prefab.meta
+¦       Dojo-DoorObject.prefab
+¦       Dojo-DoorObject.prefab.meta
+¦       Dojo-WindowObject.prefab
+¦       Dojo-WindowObject.prefab.meta
+¦       DojoGroundObject.prefab
+¦       DojoGroundObject.prefab.meta
+¦       Enemy1.prefab
+¦       Enemy1.prefab.meta
+¦       Enemy2.prefab
+¦       Enemy2.prefab.meta
+¦       Enemy3.prefab
+¦       Enemy3.prefab.meta
+¦       Fighter.prefab
+¦       Fighter.prefab.meta
+¦       FightingGroundObject.prefab
+¦       FightingGroundObject.prefab.meta
+¦       JapaneseRiceCake.prefab
+¦       JapaneseRiceCake.prefab.meta
+¦       LightColorWood.prefab
+¦       LightColorWood.prefab.meta
+¦       Med-Kit.prefab
+¦       Med-Kit.prefab.meta
+¦       Player.prefab
+¦       Player.prefab.meta
+¦       TextMeshProAddedHealth.prefab
+¦       TextMeshProAddedHealth.prefab.meta
+¦       TheDojo.prefab
+¦       TheDojo.prefab.meta
+¦       TheDojoStructureObject.prefab
+¦       TheDojoStructureObject.prefab.meta
+¦       
++---SampleScenes
+¦   ¦   AudioMixers.meta
+¦   ¦   Materials.meta
+¦   ¦   Menu.meta
+¦   ¦   Models.meta
+¦   ¦   Navmesh.meta
+¦   ¦   Prefabs.meta
+¦   ¦   Scenes.meta
+¦   ¦   Scripts.meta
+¦   ¦   Shaders.meta
+¦   ¦   Textures.meta
+¦   ¦   
+¦   +---AudioMixers
+¦   ¦       Car.mixer
+¦   ¦       Car.mixer.meta
+¦   ¦       JetPlane.mixer
+¦   ¦       JetPlane.mixer.meta
+¦   ¦       PropellerPlane.mixer
+¦   ¦       PropellerPlane.mixer.meta
+¦   ¦       
+¦   +---Materials
+¦   ¦       MauveSmooth.mat
+¦   ¦       MauveSmooth.mat.meta
+¦   ¦       NavyDarkGrid.mat
+¦   ¦       NavyDarkGrid.mat.meta
+¦   ¦       NavyDarkSmooth.mat
+¦   ¦       NavyDarkSmooth.mat.meta
+¦   ¦       NavyGrid.mat
+¦   ¦       NavyGrid.mat.meta
+¦   ¦       NavySmooth.mat
+¦   ¦       NavySmooth.mat.meta
+¦   ¦       OrangeSmooth.mat
+¦   ¦       OrangeSmooth.mat.meta
+¦   ¦       ParticleClouds.mat
+¦   ¦       ParticleClouds.mat.meta
+¦   ¦       PinkSmooth.mat
+¦   ¦       PinkSmooth.mat.meta
+¦   ¦       PinkUnlit.mat
+¦   ¦       PinkUnlit.mat.meta
+¦   ¦       SkyboxProcedural.mat
+¦   ¦       SkyboxProcedural.mat.meta
+¦   ¦       TealSmooth.mat
+¦   ¦       TealSmooth.mat.meta
+¦   ¦       TurquoiseSmooth.mat
+¦   ¦       TurquoiseSmooth.mat.meta
+¦   ¦       WhiteSmooth.mat
+¦   ¦       WhiteSmooth.mat.meta
+¦   ¦       WhiteUnlit.mat
+¦   ¦       WhiteUnlit.mat.meta
+¦   ¦       YellowSmooth.mat
+¦   ¦       YellowSmooth.mat.meta
+¦   ¦       
+¦   +---Menu
+¦   ¦   ¦   Prefabs.meta
+¦   ¦   ¦   Scripts.meta
+¦   ¦   ¦   Sprites.meta
+¦   ¦   ¦   
+¦   ¦   +---Prefabs
+¦   ¦   ¦       EventSystem.prefab
+¦   ¦   ¦       EventSystem.prefab.meta
+¦   ¦   ¦       MainMenuLoader.prefab
+¦   ¦   ¦       MainMenuLoader.prefab.meta
+¦   ¦   ¦       MainMenuUI.prefab
+¦   ¦   ¦       MainMenuUI.prefab.meta
+¦   ¦   ¦       NetworkGameMenuUI.prefab
+¦   ¦   ¦       NetworkGameMenuUI.prefab.meta
+¦   ¦   ¦       NetworkScoreBarUI.prefab
+¦   ¦   ¦       NetworkScoreBarUI.prefab.meta
+¦   ¦   ¦       
+¦   ¦   +---Scripts
+¦   ¦   ¦       MenuSceneLoader.cs
+¦   ¦   ¦       MenuSceneLoader.cs.meta
+¦   ¦   ¦       PauseMenu.cs
+¦   ¦   ¦       PauseMenu.cs.meta
+¦   ¦   ¦       SceneAndURLLoader.cs
+¦   ¦   ¦       SceneAndURLLoader.cs.meta
+¦   ¦   ¦       
+¦   ¦   +---Sprites
+¦   ¦           LogoUnitySprite.png
+¦   ¦           LogoUnitySprite.png.meta
+¦   ¦           MenuCornerTopRightSprite.png
+¦   ¦           MenuCornerTopRightSprite.png.meta
+¦   ¦           
+¦   +---Models
+¦   ¦   ¦   Brick.fbx
+¦   ¦   ¦   Brick.fbx.meta
+¦   ¦   ¦   Cube.fbx
+¦   ¦   ¦   Cube.fbx.meta
+¦   ¦   ¦   GoalPosts.fbx
+¦   ¦   ¦   GoalPosts.fbx.meta
+¦   ¦   ¦   GroundObstacles.FBX
+¦   ¦   ¦   GroundObstacles.FBX.meta
+¦   ¦   ¦   GroundRunway.FBX
+¦   ¦   ¦   GroundRunway.FBX.meta
+¦   ¦   ¦   GroundTrack.fbx
+¦   ¦   ¦   GroundTrack.fbx.meta
+¦   ¦   ¦   LaserBolt.fbx
+¦   ¦   ¦   LaserBolt.fbx.meta
+¦   ¦   ¦   Loop.fbx
+¦   ¦   ¦   Loop.fbx.meta
+¦   ¦   ¦   Materials.meta
+¦   ¦   ¦   MiniRamps.fbx
+¦   ¦   ¦   MiniRamps.fbx.meta
+¦   ¦   ¦   Pickup.fbx
+¦   ¦   ¦   Pickup.fbx.meta
+¦   ¦   ¦   Pillar.fbx
+¦   ¦   ¦   Pillar.fbx.meta
+¦   ¦   ¦   Platform.fbx
+¦   ¦   ¦   Platform.fbx.meta
+¦   ¦   ¦   Platforms.fbx
+¦   ¦   ¦   Platforms.fbx.meta
+¦   ¦   ¦   PrimaryJumpRamp.fbx
+¦   ¦   ¦   PrimaryJumpRamp.fbx.meta
+¦   ¦   ¦   RampElevated.fbx
+¦   ¦   ¦   RampElevated.fbx.meta
+¦   ¦   ¦   Ring.fbx
+¦   ¦   ¦   Ring.fbx.meta
+¦   ¦   ¦   
+¦   ¦   +---Materials
+¦   ¦           Asteroid.mat
+¦   ¦           Asteroid.mat.meta
+¦   ¦           SpaceshipGlow.mat
+¦   ¦           SpaceshipGlow.mat.meta
+¦   ¦           SpaceshipHull.mat
+¦   ¦           SpaceshipHull.mat.meta
+¦   ¦           
+¦   +---Navmesh
+¦   ¦       CarAI.asset
+¦   ¦       CarAI.asset.meta
+¦   ¦       CharacterThirdPersonAI.asset
+¦   ¦       CharacterThirdPersonAI.asset.meta
+¦   ¦       
+¦   +---Prefabs
+¦   ¦       Box.prefab
+¦   ¦       Box.prefab.meta
+¦   ¦       BoxPile.prefab
+¦   ¦       BoxPile.prefab.meta
+¦   ¦       BoxSmall.prefab
+¦   ¦       BoxSmall.prefab.meta
+¦   ¦       CameraSwitch.prefab
+¦   ¦       CameraSwitch.prefab.meta
+¦   ¦       CameraSwitchUI.prefab
+¦   ¦       CameraSwitchUI.prefab.meta
+¦   ¦       GoalPosts.prefab
+¦   ¦       GoalPosts.prefab.meta
+¦   ¦       GroundArena.prefab
+¦   ¦       GroundArena.prefab.meta
+¦   ¦       GroundObstacles.prefab
+¦   ¦       GroundObstacles.prefab.meta
+¦   ¦       GroundRunway.prefab
+¦   ¦       GroundRunway.prefab.meta
+¦   ¦       GroundTrack.prefab
+¦   ¦       GroundTrack.prefab.meta
+¦   ¦       House.prefab
+¦   ¦       House.prefab.meta
+¦   ¦       LevelResetUI.prefab
+¦   ¦       LevelResetUI.prefab.meta
+¦   ¦       Loop.prefab
+¦   ¦       Loop.prefab.meta
+¦   ¦       MobileShaderReplacements.prefab
+¦   ¦       MobileShaderReplacements.prefab.meta
+¦   ¦       Pickup.prefab
+¦   ¦       Pickup.prefab.meta
+¦   ¦       Pillar.prefab
+¦   ¦       Pillar.prefab.meta
+¦   ¦       ResetterUI.prefab
+¦   ¦       ResetterUI.prefab.meta
+¦   ¦       Ring.prefab
+¦   ¦       Ring.prefab.meta
+¦   ¦       Sea.prefab
+¦   ¦       Sea.prefab.meta
+¦   ¦       SmashBoxes.prefab
+¦   ¦       SmashBoxes.prefab.meta
+¦   ¦       Wall.prefab
+¦   ¦       Wall.prefab.meta
+¦   ¦       
+¦   +---Scenes
+¦   ¦   ¦   2dCharacter.unity
+¦   ¦   ¦   2dCharacter.unity.meta
+¦   ¦   ¦   AircraftJet2Axis.unity
+¦   ¦   ¦   AircraftJet2Axis.unity.meta
+¦   ¦   ¦   AircraftJetAI.unity
+¦   ¦   ¦   AircraftJetAI.unity.meta
+¦   ¦   ¦   AircraftPropeller4Axis.unity
+¦   ¦   ¦   AircraftPropeller4Axis.unity.meta
+¦   ¦   ¦   AircraftPropellerAI.unity
+¦   ¦   ¦   AircraftPropellerAI.unity.meta
+¦   ¦   ¦   Car.unity
+¦   ¦   ¦   Car.unity.meta
+¦   ¦   ¦   CarAIWaypointBased.unity
+¦   ¦   ¦   CarAIWaypointBased.unity.meta
+¦   ¦   ¦   CharacterFirstPerson.unity
+¦   ¦   ¦   CharacterFirstPerson.unity.meta
+¦   ¦   ¦   CharacterThirdPerson.unity
+¦   ¦   ¦   CharacterThirdPerson.unity.meta
+¦   ¦   ¦   CharacterThirdPersonAI.meta
+¦   ¦   ¦   CharacterThirdPersonAI.unity
+¦   ¦   ¦   CharacterThirdPersonAI.unity.meta
+¦   ¦   ¦   Particles.unity
+¦   ¦   ¦   Particles.unity.meta
+¦   ¦   ¦   RollerBall.unity
+¦   ¦   ¦   RollerBall.unity.meta
+¦   ¦   ¦   
+¦   ¦   +---CharacterThirdPersonAI
+¦   ¦           NavMesh.asset
+¦   ¦           NavMesh.asset.meta
+¦   ¦           
+¦   +---Scripts
+¦   ¦       CameraSwitch.cs
+¦   ¦       CameraSwitch.cs.meta
+¦   ¦       LevelReset.cs
+¦   ¦       LevelReset.cs.meta
+¦   ¦       ParticleSceneControls.cs
+¦   ¦       ParticleSceneControls.cs.meta
+¦   ¦       PlaceTargetWithMouse.cs
+¦   ¦       PlaceTargetWithMouse.cs.meta
+¦   ¦       SlowMoButton.cs
+¦   ¦       SlowMoButton.cs.meta
+¦   ¦       
+¦   +---Shaders
+¦   ¦       Skybox-Procedural.shader
+¦   ¦       Skybox-Procedural.shader.meta
+¦   ¦       
+¦   +---Textures
+¦           ChevronAlbedo.png
+¦           ChevronAlbedo.png.meta
+¦           FlyerAsteroidEmissive.tif
+¦           FlyerAsteroidEmissive.tif.meta
+¦           FlyerPlayershipAlbedo.tif
+¦           FlyerPlayershipAlbedo.tif.meta
+¦           FlyerPlayershipEmission.tif
+¦           FlyerPlayershipEmission.tif.meta
+¦           FlyerPlayershipOcclusion.tif
+¦           FlyerPlayershipOcclusion.tif.meta
+¦           GridEmissive.png
+¦           GridEmissive.png.meta
+¦           GUIButtonEmpty.png
+¦           GUIButtonEmpty.png.meta
+¦           GUIButtonReset.png
+¦           GUIButtonReset.png.meta
+¦           GUIButtonRun.png
+¦           GUIButtonRun.png.meta
+¦           GUIButtonSwitchLeft.png
+¦           GUIButtonSwitchLeft.png.meta
+¦           GUIButtonSwitchRight.png
+¦           GUIButtonSwitchRight.png.meta
+¦           GUICameraCycle.png
+¦           GUICameraCycle.png.meta
+¦           GUICameraCycleDown.png
+¦           GUICameraCycleDown.png.meta
+¦           GUIReticle.png
+¦           GUIReticle.png.meta
+¦           GUITimescaleFull.png
+¦           GUITimescaleFull.png.meta
+¦           GUITimescaleSlow.png
+¦           GUITimescaleSlow.png.meta
+¦           SwatchMauveAlbedo.png
+¦           SwatchMauveAlbedo.png.meta
+¦           SwatchNavyAlbedo.png
+¦           SwatchNavyAlbedo.png.meta
+¦           SwatchNavyDarkAlbedo.png
+¦           SwatchNavyDarkAlbedo.png.meta
+¦           SwatchOrangeAlbedo.png
+¦           SwatchOrangeAlbedo.png.meta
+¦           SwatchPinkAlbedo.png
+¦           SwatchPinkAlbedo.png.meta
+¦           SwatchTealAlbedo.png
+¦           SwatchTealAlbedo.png.meta
+¦           SwatchTurquoiseAlbedo.png
+¦           SwatchTurquoiseAlbedo.png.meta
+¦           SwatchWhiteAlbedo.png
+¦           SwatchWhiteAlbedo.png.meta
+¦           SwatchYellowAlbedo.png
+¦           SwatchYellowAlbedo.png.meta
+¦           
++---Scenes
+¦   ¦   GameScene.meta
+¦   ¦   GameScene.unity
+¦   ¦   GameScene.unity.meta
+¦   ¦   MainMenuScene.meta
+¦   ¦   MainMenuScene.unity
+¦   ¦   MainMenuScene.unity.meta
+¦   ¦   SampleScene.unity
+¦   ¦   SampleScene.unity.meta
+¦   ¦   TestScene.meta
+¦   ¦   
+¦   +---GameScene
+¦   ¦       LightingData.asset
+¦   ¦       LightingData.asset.meta
+¦   ¦       Lightmap-0_comp_dir.png
+¦   ¦       Lightmap-0_comp_dir.png.meta
+¦   ¦       Lightmap-0_comp_light.exr
+¦   ¦       Lightmap-0_comp_light.exr.meta
+¦   ¦       NavMesh.asset
+¦   ¦       NavMesh.asset.meta
+¦   ¦       ReflectionProbe-0.exr
+¦   ¦       ReflectionProbe-0.exr.meta
+¦   ¦       
+¦   +---MainMenuScene
+¦   ¦       LightingData.asset
+¦   ¦       LightingData.asset.meta
+¦   ¦       Lightmap-0_comp_dir.png
+¦   ¦       Lightmap-0_comp_dir.png.meta
+¦   ¦       Lightmap-0_comp_light.exr
+¦   ¦       Lightmap-0_comp_light.exr.meta
+¦   ¦       ReflectionProbe-0.exr
+¦   ¦       ReflectionProbe-0.exr.meta
+¦   ¦       
+¦   +---TestScene
+¦           LightingData.asset
+¦           LightingData.asset.meta
+¦           Lightmap-0_comp_dir.png
+¦           Lightmap-0_comp_dir.png.meta
+¦           Lightmap-0_comp_light.exr
+¦           Lightmap-0_comp_light.exr.meta
+¦           NavMesh.asset
+¦           NavMesh.asset.meta
+¦           ReflectionProbe-0.exr
+¦           ReflectionProbe-0.exr.meta
+¦           
++---Screenshots
+¦       14b.png
+¦       14b.png.meta
+¦       15b.png
+¦       15b.png.meta
+¦       21b.png
+¦       21b.png.meta
+¦       26b.png
+¦       26b.png.meta
+¦       hit.png
+¦       hit.png.meta
+¦       hit3.png
+¦       hit3.png.meta
+¦       hit4.png
+¦       hit4.png.meta
+¦       
++---Scripts
+¦       Combo.cs
+¦       Combo.cs.meta
+¦       EnemyCollisionDetection.cs
+¦       EnemyCollisionDetection.cs.meta
+¦       EnemyHealth.cs
+¦       EnemyHealth.cs.meta
+¦       EnemyMovement.cs
+¦       EnemyMovement.cs.meta
+¦       GameManager.cs
+¦       GameManager.cs.meta
+¦       GameMenuController.cs
+¦       GameMenuController.cs.meta
+¦       GameSetting.cs
+¦       GameSetting.cs.meta
+¦       HealthItem.cs
+¦       HealthItem.cs.meta
+¦       ItemsDropper.cs
+¦       ItemsDropper.cs.meta
+¦       LookAtCamera.cs
+¦       LookAtCamera.cs.meta
+¦       MainMenu.cs
+¦       MainMenu.cs.meta
+¦       MoveUp.cs
+¦       MoveUp.cs.meta
+¦       PlayerAnimationEvents.cs
+¦       PlayerAnimationEvents.cs.meta
+¦       PlayerCollisionDetection.cs
+¦       PlayerCollisionDetection.cs.meta
+¦       PlayerHealth.cs
+¦       PlayerHealth.cs.meta
+¦       PlayerWinningAnimation.cs
+¦       PlayerWinningAnimation.cs.meta
+¦       TestMeshLookAtCamera.cs
+¦       TestMeshLookAtCamera.cs.meta
+¦       
++---SkyBox Volume 2
+¦   ¦   DeepSpaceBlue.meta
+¦   ¦   DeepSpaceBlueWithPlanet.meta
+¦   ¦   DeepSpaceGreen.meta
+¦   ¦   DeepSpaceGreenWithPlanet.meta
+¦   ¦   DeepSpaceRed.meta
+¦   ¦   DeepsSpaceRedWithPlanet.meta
+¦   ¦   Stars01.meta
+¦   ¦   
+¦   +---DeepSpaceBlue
+¦   ¦       backImage.png
+¦   ¦       backImage.png.meta
+¦   ¦       downImage.png
+¦   ¦       downImage.png.meta
+¦   ¦       DSB.mat
+¦   ¦       DSB.mat.meta
+¦   ¦       frontImage.png
+¦   ¦       frontImage.png.meta
+¦   ¦       leftImage.png
+¦   ¦       leftImage.png.meta
+¦   ¦       rightImage.png
+¦   ¦       rightImage.png.meta
+¦   ¦       upImage.png
+¦   ¦       upImage.png.meta
+¦   ¦       
+¦   +---DeepSpaceBlueWithPlanet
+¦   ¦       backImage.png
+¦   ¦       backImage.png.meta
+¦   ¦       downImage.png
+¦   ¦       downImage.png.meta
+¦   ¦       DSBWP.mat
+¦   ¦       DSBWP.mat.meta
+¦   ¦       frontImage.png
+¦   ¦       frontImage.png.meta
+¦   ¦       leftImage.png
+¦   ¦       leftImage.png.meta
+¦   ¦       rightImage.png
+¦   ¦       rightImage.png.meta
+¦   ¦       upImage.png
+¦   ¦       upImage.png.meta
+¦   ¦       
+¦   +---DeepSpaceGreen
+¦   ¦       backImage.png
+¦   ¦       backImage.png.meta
+¦   ¦       downImage.png
+¦   ¦       downImage.png.meta
+¦   ¦       DSG.mat
+¦   ¦       DSG.mat.meta
+¦   ¦       frontImage.png
+¦   ¦       frontImage.png.meta
+¦   ¦       leftImage.png
+¦   ¦       leftImage.png.meta
+¦   ¦       rightImage.png
+¦   ¦       rightImage.png.meta
+¦   ¦       upImage.png
+¦   ¦       upImage.png.meta
+¦   ¦       
+¦   +---DeepSpaceGreenWithPlanet
+¦   ¦       backImage.png
+¦   ¦       backImage.png.meta
+¦   ¦       downImage.png
+¦   ¦       downImage.png.meta
+¦   ¦       DSGWP.mat
+¦   ¦       DSGWP.mat.meta
+¦   ¦       frontImage.png
+¦   ¦       frontImage.png.meta
+¦   ¦       leftImage.png
+¦   ¦       leftImage.png.meta
+¦   ¦       rightImage.png
+¦   ¦       rightImage.png.meta
+¦   ¦       upImage.png
+¦   ¦       upImage.png.meta
+¦   ¦       
+¦   +---DeepSpaceRed
+¦   ¦       backImage.png
+¦   ¦       backImage.png.meta
+¦   ¦       downImage.png
+¦   ¦       downImage.png.meta
+¦   ¦       DSR.mat
+¦   ¦       DSR.mat.meta
+¦   ¦       frontImage.png
+¦   ¦       frontImage.png.meta
+¦   ¦       leftImage.png
+¦   ¦       leftImage.png.meta
+¦   ¦       rightImage.png
+¦   ¦       rightImage.png.meta
+¦   ¦       upImage.png
+¦   ¦       upImage.png.meta
+¦   ¦       
+¦   +---DeepsSpaceRedWithPlanet
+¦   ¦       backImage.png
+¦   ¦       backImage.png.meta
+¦   ¦       downImage.png
+¦   ¦       downImage.png.meta
+¦   ¦       DSRWP.mat
+¦   ¦       DSRWP.mat.meta
+¦   ¦       frontImage.png
+¦   ¦       frontImage.png.meta
+¦   ¦       leftImage.png
+¦   ¦       leftImage.png.meta
+¦   ¦       rightImage.png
+¦   ¦       rightImage.png.meta
+¦   ¦       upImage.png
+¦   ¦       upImage.png.meta
+¦   ¦       
+¦   +---Stars01
+¦           backImage.png
+¦           backImage.png.meta
+¦           downImage.png
+¦           downImage.png.meta
+¦           frontImage.png
+¦           frontImage.png.meta
+¦           leftImage.png
+¦           leftImage.png.meta
+¦           rightImage.png
+¦           rightImage.png.meta
+¦           StarSkyBox.mat
+¦           StarSkyBox.mat.meta
+¦           upImage.png
+¦           upImage.png.meta
+¦           
++---Sprites
+¦       Btn_V05.png
+¦       Btn_V05.png.meta
+¦       Btn_V06.png
+¦       Btn_V06.png.meta
+¦       Btn_V15.png
+¦       Btn_V15.png.meta
+¦       Btn_V20.png
+¦       Btn_V20.png.meta
+¦       Health Wheel.png
+¦       Health Wheel.png.meta
+¦       icon.jpg
+¦       icon.jpg.meta
+¦       Menu Opciones.png
+¦       Menu Opciones.png.meta
+¦       Menu Principal.png
+¦       Menu Principal.png.meta
+¦       Player.PNG
+¦       Player.PNG.meta
+¦       
++---Standard Assets
+¦   ¦   2D.meta
+¦   ¦   Cameras.meta
+¦   ¦   Characters.meta
+¦   ¦   CrossPlatformInput.meta
+¦   ¦   Editor.meta
+¦   ¦   Effects.meta
+¦   ¦   Environment.meta
+¦   ¦   Fonts.meta
+¦   ¦   ParticleSystems.meta
+¦   ¦   PhysicsMaterials.meta
+¦   ¦   Prototyping.meta
+¦   ¦   Utility.meta
+¦   ¦   Vehicles.meta
+¦   ¦   
+¦   +---2D
+¦   ¦   ¦   Animations.meta
+¦   ¦   ¦   Animator.meta
+¦   ¦   ¦   Materials.meta
+¦   ¦   ¦   PhysicsMaterials.meta
+¦   ¦   ¦   Prefabs.meta
+¦   ¦   ¦   Scripts.meta
+¦   ¦   ¦   Sprites.meta
+¦   ¦   ¦   
+¦   ¦   +---Animations
+¦   ¦   ¦       RobotBoyCrouch.anim
+¦   ¦   ¦       RobotBoyCrouch.anim.meta
+¦   ¦   ¦       RobotBoyCrouchingWalk.anim
+¦   ¦   ¦       RobotBoyCrouchingWalk.anim.meta
+¦   ¦   ¦       RobotBoyFalling.anim
+¦   ¦   ¦       RobotBoyFalling.anim.meta
+¦   ¦   ¦       RobotBoyIdle.anim
+¦   ¦   ¦       RobotBoyIdle.anim.meta
+¦   ¦   ¦       RobotBoyJump01.anim
+¦   ¦   ¦       RobotBoyJump01.anim.meta
+¦   ¦   ¦       RobotBoyJump02.anim
+¦   ¦   ¦       RobotBoyJump02.anim.meta
+¦   ¦   ¦       RobotBoyJump03.anim
+¦   ¦   ¦       RobotBoyJump03.anim.meta
+¦   ¦   ¦       RobotBoyJump04.anim
+¦   ¦   ¦       RobotBoyJump04.anim.meta
+¦   ¦   ¦       RobotBoyJump05.anim
+¦   ¦   ¦       RobotBoyJump05.anim.meta
+¦   ¦   ¦       RobotBoyJump06.anim
+¦   ¦   ¦       RobotBoyJump06.anim.meta
+¦   ¦   ¦       RobotBoyJump07.anim
+¦   ¦   ¦       RobotBoyJump07.anim.meta
+¦   ¦   ¦       RobotBoyJump08.anim
+¦   ¦   ¦       RobotBoyJump08.anim.meta
+¦   ¦   ¦       RobotBoyJump09.anim
+¦   ¦   ¦       RobotBoyJump09.anim.meta
+¦   ¦   ¦       RobotBoyJump10.anim
+¦   ¦   ¦       RobotBoyJump10.anim.meta
+¦   ¦   ¦       RobotBoyJump11.anim
+¦   ¦   ¦       RobotBoyJump11.anim.meta
+¦   ¦   ¦       RobotBoyRun.anim
+¦   ¦   ¦       RobotBoyRun.anim.meta
+¦   ¦   ¦       RobotBoyWalk.anim
+¦   ¦   ¦       RobotBoyWalk.anim.meta
+¦   ¦   ¦       
+¦   ¦   +---Animator
+¦   ¦   ¦       2dCharacterAnimator.controller
+¦   ¦   ¦       2dCharacterAnimator.controller.meta
+¦   ¦   ¦       
+¦   ¦   +---Materials
+¦   ¦   ¦       SpriteLit.mat
+¦   ¦   ¦       SpriteLit.mat.meta
+¦   ¦   ¦       
+¦   ¦   +---PhysicsMaterials
+¦   ¦   ¦       BouncyBox.physicsMaterial2D
+¦   ¦   ¦       BouncyBox.physicsMaterial2D.meta
+¦   ¦   ¦       Slippery.physicsMaterial2D
+¦   ¦   ¦       Slippery.physicsMaterial2D.meta
+¦   ¦   ¦       Sticky.physicsMaterial2D
+¦   ¦   ¦       Sticky.physicsMaterial2D.meta
+¦   ¦   ¦       
+¦   ¦   +---Prefabs
+¦   ¦   ¦       CharacterRobotBoy.prefab
+¦   ¦   ¦       CharacterRobotBoy.prefab.meta
+¦   ¦   ¦       CollisionSlider.prefab
+¦   ¦   ¦       CollisionSlider.prefab.meta
+¦   ¦   ¦       CratePink.prefab
+¦   ¦   ¦       CratePink.prefab.meta
+¦   ¦   ¦       ExtentsLeft.prefab
+¦   ¦   ¦       ExtentsLeft.prefab.meta
+¦   ¦   ¦       ExtentsRight.prefab
+¦   ¦   ¦       ExtentsRight.prefab.meta
+¦   ¦   ¦       Killzone.prefab
+¦   ¦   ¦       Killzone.prefab.meta
+¦   ¦   ¦       Platform04x01.prefab
+¦   ¦   ¦       Platform04x01.prefab.meta
+¦   ¦   ¦       Platform08x01.prefab
+¦   ¦   ¦       Platform08x01.prefab.meta
+¦   ¦   ¦       Platform12x01.prefab
+¦   ¦   ¦       Platform12x01.prefab.meta
+¦   ¦   ¦       Platform16x01.prefab
+¦   ¦   ¦       Platform16x01.prefab.meta
+¦   ¦   ¦       Platform36x01.prefab
+¦   ¦   ¦       Platform36x01.prefab.meta
+¦   ¦   ¦       PlatformRamp.prefab
+¦   ¦   ¦       PlatformRamp.prefab.meta
+¦   ¦   ¦       
+¦   ¦   +---Scripts
+¦   ¦   ¦       Camera2DFollow.cs
+¦   ¦   ¦       Camera2DFollow.cs.meta
+¦   ¦   ¦       CameraFollow.cs
+¦   ¦   ¦       CameraFollow.cs.meta
+¦   ¦   ¦       Platformer2DUserControl.cs
+¦   ¦   ¦       Platformer2DUserControl.cs.meta
+¦   ¦   ¦       PlatformerCharacter2D.cs
+¦   ¦   ¦       PlatformerCharacter2D.cs.meta
+¦   ¦   ¦       Restarter.cs
+¦   ¦   ¦       Restarter.cs.meta
+¦   ¦   ¦       
+¦   ¦   +---Sprites
+¦   ¦           BackgroundGreyGridSprite.png
+¦   ¦           BackgroundGreyGridSprite.png.meta
+¦   ¦           BackgroundNavyGridSprite.png
+¦   ¦           BackgroundNavyGridSprite.png.meta
+¦   ¦           CratePinkGridSprite.png
+¦   ¦           CratePinkGridSprite.png.meta
+¦   ¦           PlatformWhiteSprite.png
+¦   ¦           PlatformWhiteSprite.png.meta
+¦   ¦           RobotBoyCrouchSprite.png
+¦   ¦           RobotBoyCrouchSprite.png.meta
+¦   ¦           RobotBoyDeathSprite.png
+¦   ¦           RobotBoyDeathSprite.png.meta
+¦   ¦           RobotBoyIdleSprite.png
+¦   ¦           RobotBoyIdleSprite.png.meta
+¦   ¦           RobotBoyJumpSprite.png
+¦   ¦           RobotBoyJumpSprite.png.meta
+¦   ¦           RobotBoyRollSprite.png
+¦   ¦           RobotBoyRollSprite.png.meta
+¦   ¦           RobotBoyRunSprite.png
+¦   ¦           RobotBoyRunSprite.png.meta
+¦   ¦           RobotBoyWalkSprite.png
+¦   ¦           RobotBoyWalkSprite.png.meta
+¦   ¦           
+¦   +---Cameras
+¦   ¦   ¦   CameraGuidelines.txt
+¦   ¦   ¦   CameraGuidelines.txt.meta
+¦   ¦   ¦   Prefabs.meta
+¦   ¦   ¦   Scripts.meta
+¦   ¦   ¦   
+¦   ¦   +---Prefabs
+¦   ¦   ¦       CctvCamera.prefab
+¦   ¦   ¦       CctvCamera.prefab.meta
+¦   ¦   ¦       FreeLookCameraRig.prefab
+¦   ¦   ¦       FreeLookCameraRig.prefab.meta
+¦   ¦   ¦       HandheldCamera.prefab
+¦   ¦   ¦       HandheldCamera.prefab.meta
+¦   ¦   ¦       MultipurposeCameraRig.prefab
+¦   ¦   ¦       MultipurposeCameraRig.prefab.meta
+¦   ¦   ¦       
+¦   ¦   +---Scripts
+¦   ¦           AbstractTargetFollower.cs
+¦   ¦           AbstractTargetFollower.cs.meta
+¦   ¦           AutoCam.cs
+¦   ¦           AutoCam.cs.meta
+¦   ¦           FreeLookCam.cs
+¦   ¦           FreeLookCam.cs.meta
+¦   ¦           HandHeldCam.cs
+¦   ¦           HandHeldCam.cs.meta
+¦   ¦           LookatTarget.cs
+¦   ¦           LookatTarget.cs.meta
+¦   ¦           PivotBasedCameraRig.cs
+¦   ¦           PivotBasedCameraRig.cs.meta
+¦   ¦           ProtectCameraFromWallClip.cs
+¦   ¦           ProtectCameraFromWallClip.cs.meta
+¦   ¦           TargetFieldOfView.cs
+¦   ¦           TargetFieldOfView.cs.meta
+¦   ¦           
+¦   +---Characters
+¦   ¦   ¦   FirstPersonCharacter.meta
+¦   ¦   ¦   RollerBall.meta
+¦   ¦   ¦   ThirdPersonCharacter.meta
+¦   ¦   ¦   
+¦   ¦   +---FirstPersonCharacter
+¦   ¦   ¦   ¦   Audio.meta
+¦   ¦   ¦   ¦   FirstPersonCharacterGuidelines.txt
+¦   ¦   ¦   ¦   FirstPersonCharacterGuidelines.txt.meta
+¦   ¦   ¦   ¦   Prefabs.meta
+¦   ¦   ¦   ¦   Scripts.meta
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---Audio
+¦   ¦   ¦   ¦       Footstep01.wav
+¦   ¦   ¦   ¦       Footstep01.wav.meta
+¦   ¦   ¦   ¦       Footstep02.wav
+¦   ¦   ¦   ¦       Footstep02.wav.meta
+¦   ¦   ¦   ¦       Footstep03.wav
+¦   ¦   ¦   ¦       Footstep03.wav.meta
+¦   ¦   ¦   ¦       Footstep04.wav
+¦   ¦   ¦   ¦       Footstep04.wav.meta
+¦   ¦   ¦   ¦       Jump.wav
+¦   ¦   ¦   ¦       Jump.wav.meta
+¦   ¦   ¦   ¦       Land.wav
+¦   ¦   ¦   ¦       Land.wav.meta
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Prefabs
+¦   ¦   ¦   ¦       FPSController.prefab
+¦   ¦   ¦   ¦       FPSController.prefab.meta
+¦   ¦   ¦   ¦       RigidBodyFPSController.prefab
+¦   ¦   ¦   ¦       RigidBodyFPSController.prefab.meta
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Scripts
+¦   ¦   ¦           FirstPersonController.cs
+¦   ¦   ¦           FirstPersonController.cs.meta
+¦   ¦   ¦           HeadBob.cs
+¦   ¦   ¦           HeadBob.cs.meta
+¦   ¦   ¦           MouseLook.cs
+¦   ¦   ¦           MouseLook.cs.meta
+¦   ¦   ¦           RigidbodyFirstPersonController.cs
+¦   ¦   ¦           RigidbodyFirstPersonController.cs.meta
+¦   ¦   ¦           
+¦   ¦   +---RollerBall
+¦   ¦   ¦   ¦   Materials.meta
+¦   ¦   ¦   ¦   Models.meta
+¦   ¦   ¦   ¦   Prefabs.meta
+¦   ¦   ¦   ¦   RollerBallGuidelines.txt
+¦   ¦   ¦   ¦   RollerBallGuidelines.txt.meta
+¦   ¦   ¦   ¦   Scripts.meta
+¦   ¦   ¦   ¦   Textures.meta
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---Materials
+¦   ¦   ¦   ¦       RollerBallGrey.mat
+¦   ¦   ¦   ¦       RollerBallGrey.mat.meta
+¦   ¦   ¦   ¦       RollerBallWhite.mat
+¦   ¦   ¦   ¦       RollerBallWhite.mat.meta
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Models
+¦   ¦   ¦   ¦       RollerBall.fbx
+¦   ¦   ¦   ¦       RollerBall.fbx.meta
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Prefabs
+¦   ¦   ¦   ¦       RollerBall.prefab
+¦   ¦   ¦   ¦       RollerBall.prefab.meta
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Scripts
+¦   ¦   ¦   ¦       Ball.cs
+¦   ¦   ¦   ¦       Ball.cs.meta
+¦   ¦   ¦   ¦       BallUserControl.cs
+¦   ¦   ¦   ¦       BallUserControl.cs.meta
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Textures
+¦   ¦   ¦           RollerBallAlbedo.png
+¦   ¦   ¦           RollerBallAlbedo.png.meta
+¦   ¦   ¦           RollerBallSpecularGloss.png
+¦   ¦   ¦           RollerBallSpecularGloss.png.meta
+¦   ¦   ¦           
+¦   ¦   +---ThirdPersonCharacter
+¦   ¦       ¦   Animation.meta
+¦   ¦       ¦   Animator.meta
+¦   ¦       ¦   Materials.meta
+¦   ¦       ¦   Models.meta
+¦   ¦       ¦   Prefabs.meta
+¦   ¦       ¦   Scripts.meta
+¦   ¦       ¦   Textures.meta
+¦   ¦       ¦   ThirdPersonCharacterGuidelines.txt
+¦   ¦       ¦   ThirdPersonCharacterGuidelines.txt.meta
+¦   ¦       ¦   
+¦   ¦       +---Animation
+¦   ¦       ¦       HumanoidCrouch.fbx
+¦   ¦       ¦       HumanoidCrouch.fbx.meta
+¦   ¦       ¦       HumanoidIdle.fbx
+¦   ¦       ¦       HumanoidIdle.fbx.meta
+¦   ¦       ¦       HumanoidIdleJumpUp.fbx
+¦   ¦       ¦       HumanoidIdleJumpUp.fbx.meta
+¦   ¦       ¦       HumanoidJumpAndFall.fbx
+¦   ¦       ¦       HumanoidJumpAndFall.fbx.meta
+¦   ¦       ¦       HumanoidMidAir.fbx
+¦   ¦       ¦       HumanoidMidAir.fbx.meta
+¦   ¦       ¦       HumanoidRun.fbx
+¦   ¦       ¦       HumanoidRun.fbx.meta
+¦   ¦       ¦       HumanoidRunTurn.fbx
+¦   ¦       ¦       HumanoidRunTurn.fbx.meta
+¦   ¦       ¦       HumanoidRunTurnSharp.fbx
+¦   ¦       ¦       HumanoidRunTurnSharp.fbx.meta
+¦   ¦       ¦       HumanoidStandTurn.fbx
+¦   ¦       ¦       HumanoidStandTurn.fbx.meta
+¦   ¦       ¦       HumanoidWalk.fbx
+¦   ¦       ¦       HumanoidWalk.fbx.meta
+¦   ¦       ¦       HumanoidWalkTurn.fbx
+¦   ¦       ¦       HumanoidWalkTurn.fbx.meta
+¦   ¦       ¦       HumanoidWalkTurnSharp.fbx
+¦   ¦       ¦       HumanoidWalkTurnSharp.fbx.meta
+¦   ¦       ¦       
+¦   ¦       +---Animator
+¦   ¦       ¦       ThirdPersonAnimatorController.controller
+¦   ¦       ¦       ThirdPersonAnimatorController.controller.meta
+¦   ¦       ¦       
+¦   ¦       +---Materials
+¦   ¦       ¦       EthanGrey.mat
+¦   ¦       ¦       EthanGrey.mat.meta
+¦   ¦       ¦       EthanWhite.mat
+¦   ¦       ¦       EthanWhite.mat.meta
+¦   ¦       ¦       
+¦   ¦       +---Models
+¦   ¦       ¦       Ethan.fbx
+¦   ¦       ¦       Ethan.fbx.meta
+¦   ¦       ¦       
+¦   ¦       +---Prefabs
+¦   ¦       ¦       AIThirdPersonController.prefab
+¦   ¦       ¦       AIThirdPersonController.prefab.meta
+¦   ¦       ¦       ThirdPersonController.prefab
+¦   ¦       ¦       ThirdPersonController.prefab.meta
+¦   ¦       ¦       
+¦   ¦       +---Scripts
+¦   ¦       ¦       AICharacterControl.cs
+¦   ¦       ¦       AICharacterControl.cs.meta
+¦   ¦       ¦       ThirdPersonCharacter.cs
+¦   ¦       ¦       ThirdPersonCharacter.cs.meta
+¦   ¦       ¦       ThirdPersonUserControl.cs
+¦   ¦       ¦       ThirdPersonUserControl.cs.meta
+¦   ¦       ¦       
+¦   ¦       +---Textures
+¦   ¦               EthanNormals.png
+¦   ¦               EthanNormals.png.meta
+¦   ¦               EthanOcclusion.png
+¦   ¦               EthanOcclusion.png.meta
+¦   ¦               
+¦   +---CrossPlatformInput
+¦   ¦   ¦   CrossPlatformInputGuidelines.txt
+¦   ¦   ¦   CrossPlatformInputGuidelines.txt.meta
+¦   ¦   ¦   Prefabs.meta
+¦   ¦   ¦   Scripts.meta
+¦   ¦   ¦   Sprites.meta
+¦   ¦   ¦   
+¦   ¦   +---Prefabs
+¦   ¦   ¦       CarTiltControls.prefab
+¦   ¦   ¦       CarTiltControls.prefab.meta
+¦   ¦   ¦       DualTouchControls.prefab
+¦   ¦   ¦       DualTouchControls.prefab.meta
+¦   ¦   ¦       MobileAircraftControls.prefab
+¦   ¦   ¦       MobileAircraftControls.prefab.meta
+¦   ¦   ¦       MobileSingleStickControl.prefab
+¦   ¦   ¦       MobileSingleStickControl.prefab.meta
+¦   ¦   ¦       MobileTiltControlRig.prefab
+¦   ¦   ¦       MobileTiltControlRig.prefab.meta
+¦   ¦   ¦       
+¦   ¦   +---Scripts
+¦   ¦   ¦   ¦   AxisTouchButton.cs
+¦   ¦   ¦   ¦   AxisTouchButton.cs.meta
+¦   ¦   ¦   ¦   ButtonHandler.cs
+¦   ¦   ¦   ¦   ButtonHandler.cs.meta
+¦   ¦   ¦   ¦   CrossPlatformInputManager.cs
+¦   ¦   ¦   ¦   CrossPlatformInputManager.cs.meta
+¦   ¦   ¦   ¦   InputAxisScrollbar.cs
+¦   ¦   ¦   ¦   InputAxisScrollbar.cs.meta
+¦   ¦   ¦   ¦   Joystick.cs
+¦   ¦   ¦   ¦   Joystick.cs.meta
+¦   ¦   ¦   ¦   MobileControlRig.cs
+¦   ¦   ¦   ¦   MobileControlRig.cs.meta
+¦   ¦   ¦   ¦   PlatformSpecific.meta
+¦   ¦   ¦   ¦   TiltInput.cs
+¦   ¦   ¦   ¦   TiltInput.cs.meta
+¦   ¦   ¦   ¦   TouchPad.cs
+¦   ¦   ¦   ¦   TouchPad.cs.meta
+¦   ¦   ¦   ¦   VirtualInput.cs
+¦   ¦   ¦   ¦   VirtualInput.cs.meta
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---PlatformSpecific
+¦   ¦   ¦           MobileInput.cs
+¦   ¦   ¦           MobileInput.cs.meta
+¦   ¦   ¦           StandaloneInput.cs
+¦   ¦   ¦           StandaloneInput.cs.meta
+¦   ¦   ¦           
+¦   ¦   +---Sprites
+¦   ¦           ButtonAcceleratorOverSprite.png
+¦   ¦           ButtonAcceleratorOverSprite.png.meta
+¦   ¦           ButtonAcceleratorUpSprite.png
+¦   ¦           ButtonAcceleratorUpSprite.png.meta
+¦   ¦           ButtonArrowOverSprite.png
+¦   ¦           ButtonArrowOverSprite.png.meta
+¦   ¦           ButtonArrowUpSprite.png
+¦   ¦           ButtonArrowUpSprite.png.meta
+¦   ¦           ButtonBrakeOverSprite.png
+¦   ¦           ButtonBrakeOverSprite.png.meta
+¦   ¦           ButtonBrakeUpSprite.png
+¦   ¦           ButtonBrakeUpSprite.png.meta
+¦   ¦           ButtonCameraCycleUpSprite.png
+¦   ¦           ButtonCameraCycleUpSprite.png.meta
+¦   ¦           ButtonResetSprite.png
+¦   ¦           ButtonResetSprite.png.meta
+¦   ¦           ButtonSpacebarSprite.png
+¦   ¦           ButtonSpacebarSprite.png.meta
+¦   ¦           ButtonThumbstickOverSprite.png
+¦   ¦           ButtonThumbstickOverSprite.png.meta
+¦   ¦           ButtonThumbstickUpSprite.png
+¦   ¦           ButtonThumbstickUpSprite.png.meta
+¦   ¦           ButtonTimescaleFullUpSprite.png
+¦   ¦           ButtonTimescaleFullUpSprite.png.meta
+¦   ¦           ButtonTimescaleSlowUpSprite.png
+¦   ¦           ButtonTimescaleSlowUpSprite.png.meta
+¦   ¦           SliderBackgroundSprite.png
+¦   ¦           SliderBackgroundSprite.png.meta
+¦   ¦           SliderHandleSprite.png
+¦   ¦           SliderHandleSprite.png.meta
+¦   ¦           TouchpadSprite.png
+¦   ¦           TouchpadSprite.png.meta
+¦   ¦           
+¦   +---Editor
+¦   ¦   ¦   CrossPlatformInput.meta
+¦   ¦   ¦   Water.meta
+¦   ¦   ¦   
+¦   ¦   +---CrossPlatformInput
+¦   ¦   ¦       CrossPlatformInputInitialize.cs
+¦   ¦   ¦       CrossPlatformInputInitialize.cs.meta
+¦   ¦   ¦       
+¦   ¦   +---Water
+¦   ¦       ¦   Water4.meta
+¦   ¦       ¦   
+¦   ¦       +---Water4
+¦   ¦               GerstnerDisplaceEditor.cs
+¦   ¦               GerstnerDisplaceEditor.cs.meta
+¦   ¦               PlanarReflectionEditor.cs
+¦   ¦               PlanarReflectionEditor.cs.meta
+¦   ¦               SpecularLightingEditor.cs
+¦   ¦               SpecularLightingEditor.cs.meta
+¦   ¦               WaterBaseEditor.cs
+¦   ¦               WaterBaseEditor.cs.meta
+¦   ¦               WaterEditorUtility.cs
+¦   ¦               WaterEditorUtility.cs.meta
+¦   ¦               
+¦   +---Effects
+¦   ¦   ¦   GlassRefraction.meta
+¦   ¦   ¦   ImageEffects.meta
+¦   ¦   ¦   LightCookies.meta
+¦   ¦   ¦   LightFlares.meta
+¦   ¦   ¦   Projectors.meta
+¦   ¦   ¦   TessellationShaders.meta
+¦   ¦   ¦   ToonShading.meta
+¦   ¦   ¦   
+¦   ¦   +---GlassRefraction
+¦   ¦   ¦   ¦   Materials.meta
+¦   ¦   ¦   ¦   Shaders.meta
+¦   ¦   ¦   ¦   Textures.meta
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---Materials
+¦   ¦   ¦   ¦       GlassRefractive.mat
+¦   ¦   ¦   ¦       GlassRefractive.mat.meta
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Shaders
+¦   ¦   ¦   ¦       GlassStainedBumpDistort.shader
+¦   ¦   ¦   ¦       GlassStainedBumpDistort.shader.meta
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Textures
+¦   ¦   ¦           GlassStainedAlbedo.tif
+¦   ¦   ¦           GlassStainedAlbedo.tif.meta
+¦   ¦   ¦           GlassStainedNormals.tif
+¦   ¦   ¦           GlassStainedNormals.tif.meta
+¦   ¦   ¦           
+¦   ¦   +---ImageEffects
+¦   ¦   ¦       Readme.txt
+¦   ¦   ¦       Readme.txt.meta
+¦   ¦   ¦       
+¦   ¦   +---LightCookies
+¦   ¦   ¦   ¦   Textures.meta
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---Textures
+¦   ¦   ¦           FlashlightCookie.tif
+¦   ¦   ¦           FlashlightCookie.tif.meta
+¦   ¦   ¦           FlashlightIrregularCookie.tif
+¦   ¦   ¦           FlashlightIrregularCookie.tif.meta
+¦   ¦   ¦           LightHardCookie.psd
+¦   ¦   ¦           LightHardCookie.psd.meta
+¦   ¦   ¦           LightSoftCookie.tif
+¦   ¦   ¦           LightSoftCookie.tif.meta
+¦   ¦   ¦           LightSquareCookie.psd
+¦   ¦   ¦           LightSquareCookie.psd.meta
+¦   ¦   ¦           
+¦   ¦   +---LightFlares
+¦   ¦   ¦   ¦   Flares.meta
+¦   ¦   ¦   ¦   Materials.meta
+¦   ¦   ¦   ¦   Textures.meta
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---Flares
+¦   ¦   ¦   ¦       50mmZoom.flare
+¦   ¦   ¦   ¦       50mmZoom.flare.meta
+¦   ¦   ¦   ¦       FlareSmall.flare
+¦   ¦   ¦   ¦       FlareSmall.flare.meta
+¦   ¦   ¦   ¦       Sun.flare
+¦   ¦   ¦   ¦       Sun.flare.meta
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Materials
+¦   ¦   ¦   ¦       Flare50mm.mat
+¦   ¦   ¦   ¦       Flare50mm.mat.meta
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Textures
+¦   ¦   ¦           Flare50mm.psd
+¦   ¦   ¦           Flare50mm.psd.meta
+¦   ¦   ¦           FlareStar.psd
+¦   ¦   ¦           FlareStar.psd.meta
+¦   ¦   ¦           
+¦   ¦   +---Projectors
+¦   ¦   ¦   ¦   Guidelines.txt
+¦   ¦   ¦   ¦   Guidelines.txt.meta
+¦   ¦   ¦   ¦   Materials.meta
+¦   ¦   ¦   ¦   Prefabs.meta
+¦   ¦   ¦   ¦   Shaders.meta
+¦   ¦   ¦   ¦   Textures.meta
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---Materials
+¦   ¦   ¦   ¦       GridProjector.mat
+¦   ¦   ¦   ¦       GridProjector.mat.meta
+¦   ¦   ¦   ¦       LightProjector.mat
+¦   ¦   ¦   ¦       LightProjector.mat.meta
+¦   ¦   ¦   ¦       ShadowProjector.mat
+¦   ¦   ¦   ¦       ShadowProjector.mat.meta
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Prefabs
+¦   ¦   ¦   ¦       BlobLightProjector.prefab
+¦   ¦   ¦   ¦       BlobLightProjector.prefab.meta
+¦   ¦   ¦   ¦       BlobShadowProjector.prefab
+¦   ¦   ¦   ¦       BlobShadowProjector.prefab.meta
+¦   ¦   ¦   ¦       GridProjector.prefab
+¦   ¦   ¦   ¦       GridProjector.prefab.meta
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Shaders
+¦   ¦   ¦   ¦       ProjectorLight.shader
+¦   ¦   ¦   ¦       ProjectorLight.shader.meta
+¦   ¦   ¦   ¦       ProjectorMultiply.shader
+¦   ¦   ¦   ¦       ProjectorMultiply.shader.meta
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Textures
+¦   ¦   ¦           Falloff.psd
+¦   ¦   ¦           Falloff.psd.meta
+¦   ¦   ¦           Grid.psd
+¦   ¦   ¦           Grid.psd.meta
+¦   ¦   ¦           Light.psd
+¦   ¦   ¦           Light.psd.meta
+¦   ¦   ¦           Shadow.psd
+¦   ¦   ¦           Shadow.psd.meta
+¦   ¦   ¦           
+¦   ¦   +---TessellationShaders
+¦   ¦   ¦   ¦   Materials.meta
+¦   ¦   ¦   ¦   Models.meta
+¦   ¦   ¦   ¦   Scenes.meta
+¦   ¦   ¦   ¦   Shaders.meta
+¦   ¦   ¦   ¦   Textures.meta
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---Materials
+¦   ¦   ¦   ¦       TesselatedBumpSpecular.mat
+¦   ¦   ¦   ¦       TesselatedBumpSpecular.mat.meta
+¦   ¦   ¦   ¦       TesselatedBumpSpecularDisplacement.mat
+¦   ¦   ¦   ¦       TesselatedBumpSpecularDisplacement.mat.meta
+¦   ¦   ¦   ¦       TesselatedBumpSpecularSmooth.mat
+¦   ¦   ¦   ¦       TesselatedBumpSpecularSmooth.mat.meta
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Models
+¦   ¦   ¦   ¦       LowPolySphere.fbx
+¦   ¦   ¦   ¦       LowPolySphere.fbx.meta
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Scenes
+¦   ¦   ¦   ¦       TessellationSample.unity
+¦   ¦   ¦   ¦       TessellationSample.unity.meta
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Shaders
+¦   ¦   ¦   ¦       BumpedSpecularDisplacement.shader
+¦   ¦   ¦   ¦       BumpedSpecularDisplacement.shader.meta
+¦   ¦   ¦   ¦       BumpedSpecularSmooth.shader
+¦   ¦   ¦   ¦       BumpedSpecularSmooth.shader.meta
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Textures
+¦   ¦   ¦           CliffHeight.png
+¦   ¦   ¦           CliffHeight.png.meta
+¦   ¦   ¦           CliffNormals.png
+¦   ¦   ¦           CliffNormals.png.meta
+¦   ¦   ¦           
+¦   ¦   +---ToonShading
+¦   ¦       ¦   Materials.meta
+¦   ¦       ¦   Shaders.meta
+¦   ¦       ¦   Textures.meta
+¦   ¦       ¦   
+¦   ¦       +---Materials
+¦   ¦       ¦       ToonBasic.mat
+¦   ¦       ¦       ToonBasic.mat.meta
+¦   ¦       ¦       ToonBasicOutline.mat
+¦   ¦       ¦       ToonBasicOutline.mat.meta
+¦   ¦       ¦       ToonLit.mat
+¦   ¦       ¦       ToonLit.mat.meta
+¦   ¦       ¦       ToonLitOutline.mat
+¦   ¦       ¦       ToonLitOutline.mat.meta
+¦   ¦       ¦       
+¦   ¦       +---Shaders
+¦   ¦       ¦       ToonBasic.shader
+¦   ¦       ¦       ToonBasic.shader.meta
+¦   ¦       ¦       ToonBasicOutline.shader
+¦   ¦       ¦       ToonBasicOutline.shader.meta
+¦   ¦       ¦       ToonLit.shader
+¦   ¦       ¦       ToonLit.shader.meta
+¦   ¦       ¦       ToonLitOutline.shader
+¦   ¦       ¦       ToonLitOutline.shader.meta
+¦   ¦       ¦       
+¦   ¦       +---Textures
+¦   ¦               ToonLit.psd
+¦   ¦               ToonLit.psd.meta
+¦   ¦               UtilToonGradient.png
+¦   ¦               UtilToonGradient.png.meta
+¦   ¦               
+¦   +---Environment
+¦   ¦   ¦   SpeedTree.meta
+¦   ¦   ¦   TerrainAssets.meta
+¦   ¦   ¦   Water (Basic).meta
+¦   ¦   ¦   Water.meta
+¦   ¦   ¦   
+¦   ¦   +---SpeedTree
+¦   ¦   ¦   ¦   Broadleaf.meta
+¦   ¦   ¦   ¦   Conifer.meta
+¦   ¦   ¦   ¦   Palm.meta
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---Broadleaf
+¦   ¦   ¦   ¦   ¦   BroadleafBark.tga
+¦   ¦   ¦   ¦   ¦   BroadleafBark.tga.meta
+¦   ¦   ¦   ¦   ¦   BroadleafBark_Normal.tga
+¦   ¦   ¦   ¦   ¦   BroadleafBark_Normal.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaf_Desktop Materials.meta
+¦   ¦   ¦   ¦   ¦   Broadleaf_Desktop.spm
+¦   ¦   ¦   ¦   ¦   Broadleaf_Desktop.spm.meta
+¦   ¦   ¦   ¦   ¦   Broadleaf_Desktop_Atlas.tga
+¦   ¦   ¦   ¦   ¦   Broadleaf_Desktop_Atlas.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaf_Desktop_Atlas_Billboards.tga
+¦   ¦   ¦   ¦   ¦   Broadleaf_Desktop_Atlas_Billboards.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaf_Desktop_Atlas_Billboards_Normal.tga
+¦   ¦   ¦   ¦   ¦   Broadleaf_Desktop_Atlas_Billboards_Normal.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaf_Desktop_Atlas_Normal.tga
+¦   ¦   ¦   ¦   ¦   Broadleaf_Desktop_Atlas_Normal.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaf_Desktop_Atlas_Specular.tga
+¦   ¦   ¦   ¦   ¦   Broadleaf_Desktop_Atlas_Specular.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaf_Mobile Materials.meta
+¦   ¦   ¦   ¦   ¦   Broadleaf_Mobile.spm
+¦   ¦   ¦   ¦   ¦   Broadleaf_Mobile.spm.meta
+¦   ¦   ¦   ¦   ¦   Broadleaf_Mobile_Atlas.tga
+¦   ¦   ¦   ¦   ¦   Broadleaf_Mobile_Atlas.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaf_Mobile_Atlas_Billboards.tga
+¦   ¦   ¦   ¦   ¦   Broadleaf_Mobile_Atlas_Billboards.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaf_Mobile_Atlas_Billboards_Normal.tga
+¦   ¦   ¦   ¦   ¦   Broadleaf_Mobile_Atlas_Billboards_Normal.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaf_Mobile_Atlas_Normal.tga
+¦   ¦   ¦   ¦   ¦   Broadleaf_Mobile_Atlas_Normal.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaf_Mobile_Atlas_Specular.tga
+¦   ¦   ¦   ¦   ¦   Broadleaf_Mobile_Atlas_Specular.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaves_Card_Desktop.tga
+¦   ¦   ¦   ¦   ¦   Broadleaves_Card_Desktop.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaves_Card_Desktop_Normal.tga
+¦   ¦   ¦   ¦   ¦   Broadleaves_Card_Desktop_Normal.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaves_Card_Desktop_Spec.tga
+¦   ¦   ¦   ¦   ¦   Broadleaves_Card_Desktop_Spec.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaves_Desktop.tga
+¦   ¦   ¦   ¦   ¦   Broadleaves_Desktop.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaves_Desktop_Normal.tga
+¦   ¦   ¦   ¦   ¦   Broadleaves_Desktop_Normal.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaves_Desktop_Spec.tga
+¦   ¦   ¦   ¦   ¦   Broadleaves_Desktop_Spec.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaves_Mobile.tga
+¦   ¦   ¦   ¦   ¦   Broadleaves_Mobile.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaves_Mobile_Normal.tga
+¦   ¦   ¦   ¦   ¦   Broadleaves_Mobile_Normal.tga.meta
+¦   ¦   ¦   ¦   ¦   Broadleaves_Mobile_Spec.tga
+¦   ¦   ¦   ¦   ¦   Broadleaves_Mobile_Spec.tga.meta
+¦   ¦   ¦   ¦   ¦   Cap_01.tga
+¦   ¦   ¦   ¦   ¦   Cap_01.tga.meta
+¦   ¦   ¦   ¦   ¦   Cap_01_Normal.tga
+¦   ¦   ¦   ¦   ¦   Cap_01_Normal.tga.meta
+¦   ¦   ¦   ¦   ¦   Cap_02.tga
+¦   ¦   ¦   ¦   ¦   Cap_02.tga.meta
+¦   ¦   ¦   ¦   ¦   Cap_02_Normal.tga
+¦   ¦   ¦   ¦   ¦   Cap_02_Normal.tga.meta
+¦   ¦   ¦   ¦   ¦   ClippedFrond.tga
+¦   ¦   ¦   ¦   ¦   ClippedFrond.tga.meta
+¦   ¦   ¦   ¦   ¦   ClippedFrond_Normal.tga
+¦   ¦   ¦   ¦   ¦   ClippedFrond_Normal.tga.meta
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---Broadleaf_Desktop Materials
+¦   ¦   ¦   ¦   ¦   ¦   Billboard.mat
+¦   ¦   ¦   ¦   ¦   ¦   Billboard.mat.meta
+¦   ¦   ¦   ¦   ¦   ¦   LOD0.meta
+¦   ¦   ¦   ¦   ¦   ¦   LOD1.meta
+¦   ¦   ¦   ¦   ¦   ¦   LOD2.meta
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---LOD0
+¦   ¦   ¦   ¦   ¦   ¦       Branches_0.mat
+¦   ¦   ¦   ¦   ¦   ¦       Branches_0.mat.meta
+¦   ¦   ¦   ¦   ¦   ¦       Branches_1.mat
+¦   ¦   ¦   ¦   ¦   ¦       Branches_1.mat.meta
+¦   ¦   ¦   ¦   ¦   ¦       FacingLeaves_4.mat
+¦   ¦   ¦   ¦   ¦   ¦       FacingLeaves_4.mat.meta
+¦   ¦   ¦   ¦   ¦   ¦       Fronds_2.mat
+¦   ¦   ¦   ¦   ¦   ¦       Fronds_2.mat.meta
+¦   ¦   ¦   ¦   ¦   ¦       Leaves_3.mat
+¦   ¦   ¦   ¦   ¦   ¦       Leaves_3.mat.meta
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---LOD1
+¦   ¦   ¦   ¦   ¦   ¦       Branches_0.mat
+¦   ¦   ¦   ¦   ¦   ¦       Branches_0.mat.meta
+¦   ¦   ¦   ¦   ¦   ¦       Branches_1.mat
+¦   ¦   ¦   ¦   ¦   ¦       Branches_1.mat.meta
+¦   ¦   ¦   ¦   ¦   ¦       FacingLeaves_4.mat
+¦   ¦   ¦   ¦   ¦   ¦       FacingLeaves_4.mat.meta
+¦   ¦   ¦   ¦   ¦   ¦       Fronds_2.mat
+¦   ¦   ¦   ¦   ¦   ¦       Fronds_2.mat.meta
+¦   ¦   ¦   ¦   ¦   ¦       Leaves_3.mat
+¦   ¦   ¦   ¦   ¦   ¦       Leaves_3.mat.meta
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---LOD2
+¦   ¦   ¦   ¦   ¦           Branches_0.mat
+¦   ¦   ¦   ¦   ¦           Branches_0.mat.meta
+¦   ¦   ¦   ¦   ¦           Branches_1.mat
+¦   ¦   ¦   ¦   ¦           Branches_1.mat.meta
+¦   ¦   ¦   ¦   ¦           FacingLeaves_4.mat
+¦   ¦   ¦   ¦   ¦           FacingLeaves_4.mat.meta
+¦   ¦   ¦   ¦   ¦           Fronds_2.mat
+¦   ¦   ¦   ¦   ¦           Fronds_2.mat.meta
+¦   ¦   ¦   ¦   ¦           Leaves_3.mat
+¦   ¦   ¦   ¦   ¦           Leaves_3.mat.meta
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---Broadleaf_Mobile Materials
+¦   ¦   ¦   ¦       ¦   Billboard.mat
+¦   ¦   ¦   ¦       ¦   Billboard.mat.meta
+¦   ¦   ¦   ¦       ¦   LOD0.meta
+¦   ¦   ¦   ¦       ¦   LOD1.meta
+¦   ¦   ¦   ¦       ¦   LOD2.meta
+¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦       +---LOD0
+¦   ¦   ¦   ¦       ¦       Branches_0.mat
+¦   ¦   ¦   ¦       ¦       Branches_0.mat.meta
+¦   ¦   ¦   ¦       ¦       Leaves_1.mat
+¦   ¦   ¦   ¦       ¦       Leaves_1.mat.meta
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---LOD1
+¦   ¦   ¦   ¦       ¦       Branches_0.mat
+¦   ¦   ¦   ¦       ¦       Branches_0.mat.meta
+¦   ¦   ¦   ¦       ¦       Leaves_1.mat
+¦   ¦   ¦   ¦       ¦       Leaves_1.mat.meta
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---LOD2
+¦   ¦   ¦   ¦               Branches_0.mat
+¦   ¦   ¦   ¦               Branches_0.mat.meta
+¦   ¦   ¦   ¦               Leaves_1.mat
+¦   ¦   ¦   ¦               Leaves_1.mat.meta
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---Conifer
+¦   ¦   ¦   ¦   ¦   ConiferBark.tga
+¦   ¦   ¦   ¦   ¦   ConiferBark.tga.meta
+¦   ¦   ¦   ¦   ¦   ConiferBark_Normal.tga
+¦   ¦   ¦   ¦   ¦   ConiferBark_Normal.tga.meta
+¦   ¦   ¦   ¦   ¦   Conifer_Desktop Materials.meta
+¦   ¦   ¦   ¦   ¦   Conifer_Desktop.spm
+¦   ¦   ¦   ¦   ¦   Conifer_Desktop.spm.meta
+¦   ¦   ¦   ¦   ¦   Conifer_Desktop_Atlas.tga
+¦   ¦   ¦   ¦   ¦   Conifer_Desktop_Atlas.tga.meta
+¦   ¦   ¦   ¦   ¦   Conifer_Desktop_Atlas_Billboards.tga
+¦   ¦   ¦   ¦   ¦   Conifer_Desktop_Atlas_Billboards.tga.meta
+¦   ¦   ¦   ¦   ¦   Conifer_Desktop_Atlas_Billboards_Normal.tga
+¦   ¦   ¦   ¦   ¦   Conifer_Desktop_Atlas_Billboards_Normal.tga.meta
+¦   ¦   ¦   ¦   ¦   Conifer_Desktop_Atlas_Normal.tga
+¦   ¦   ¦   ¦   ¦   Conifer_Desktop_Atlas_Normal.tga.meta
+¦   ¦   ¦   ¦   ¦   Conifer_Desktop_Atlas_Specular.tga
+¦   ¦   ¦   ¦   ¦   Conifer_Desktop_Atlas_Specular.tga.meta
+¦   ¦   ¦   ¦   ¦   Conifer_Needles_Dekstop_Spec.tga
+¦   ¦   ¦   ¦   ¦   Conifer_Needles_Dekstop_Spec.tga.meta
+¦   ¦   ¦   ¦   ¦   Conifer_Needles_Desktop.tga
+¦   ¦   ¦   ¦   ¦   Conifer_Needles_Desktop.tga.meta
+¦   ¦   ¦   ¦   ¦   Conifer_Needles_Desktop_Normal.tga
+¦   ¦   ¦   ¦   ¦   Conifer_Needles_Desktop_Normal.tga.meta
+¦   ¦   ¦   ¦   ¦   Thumb_Conifer_Desktop.jpg
+¦   ¦   ¦   ¦   ¦   Thumb_Conifer_Desktop.jpg.meta
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---Conifer_Desktop Materials
+¦   ¦   ¦   ¦       ¦   Billboard.mat
+¦   ¦   ¦   ¦       ¦   Billboard.mat.meta
+¦   ¦   ¦   ¦       ¦   LOD0.meta
+¦   ¦   ¦   ¦       ¦   LOD1.meta
+¦   ¦   ¦   ¦       ¦   LOD2.meta
+¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦       +---LOD0
+¦   ¦   ¦   ¦       ¦       Branches_0.mat
+¦   ¦   ¦   ¦       ¦       Branches_0.mat.meta
+¦   ¦   ¦   ¦       ¦       Branches_1.mat
+¦   ¦   ¦   ¦       ¦       Branches_1.mat.meta
+¦   ¦   ¦   ¦       ¦       Fronds_2.mat
+¦   ¦   ¦   ¦       ¦       Fronds_2.mat.meta
+¦   ¦   ¦   ¦       ¦       Leaves_3.mat
+¦   ¦   ¦   ¦       ¦       Leaves_3.mat.meta
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---LOD1
+¦   ¦   ¦   ¦       ¦       Branches_0.mat
+¦   ¦   ¦   ¦       ¦       Branches_0.mat.meta
+¦   ¦   ¦   ¦       ¦       Branches_1.mat
+¦   ¦   ¦   ¦       ¦       Branches_1.mat.meta
+¦   ¦   ¦   ¦       ¦       Fronds_2.mat
+¦   ¦   ¦   ¦       ¦       Fronds_2.mat.meta
+¦   ¦   ¦   ¦       ¦       Leaves_3.mat
+¦   ¦   ¦   ¦       ¦       Leaves_3.mat.meta
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---LOD2
+¦   ¦   ¦   ¦               Branches_0.mat
+¦   ¦   ¦   ¦               Branches_0.mat.meta
+¦   ¦   ¦   ¦               Branches_1.mat
+¦   ¦   ¦   ¦               Branches_1.mat.meta
+¦   ¦   ¦   ¦               Leaves_3.mat
+¦   ¦   ¦   ¦               Leaves_3.mat.meta
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---Palm
+¦   ¦   ¦       ¦   PalmBark.tga
+¦   ¦   ¦       ¦   PalmBark.tga.meta
+¦   ¦   ¦       ¦   PalmBark_Detail.tga
+¦   ¦   ¦       ¦   PalmBark_Detail.tga.meta
+¦   ¦   ¦       ¦   PalmBark_Detail_Normal.tga
+¦   ¦   ¦       ¦   PalmBark_Detail_Normal.tga.meta
+¦   ¦   ¦       ¦   PalmBark_Normal.tga
+¦   ¦   ¦       ¦   PalmBark_Normal.tga.meta
+¦   ¦   ¦       ¦   PalmFrond.tga
+¦   ¦   ¦       ¦   PalmFrond.tga.meta
+¦   ¦   ¦       ¦   PalmFrond_Normal.tga
+¦   ¦   ¦       ¦   PalmFrond_Normal.tga.meta
+¦   ¦   ¦       ¦   PalmFrond_Spec.tga
+¦   ¦   ¦       ¦   PalmFrond_Spec.tga.meta
+¦   ¦   ¦       ¦   Palm_Desktop Materials.meta
+¦   ¦   ¦       ¦   Palm_Desktop.spm
+¦   ¦   ¦       ¦   Palm_Desktop.spm.meta
+¦   ¦   ¦       ¦   Palm_Desktop_Atlas.tga
+¦   ¦   ¦       ¦   Palm_Desktop_Atlas.tga.meta
+¦   ¦   ¦       ¦   Palm_Desktop_Atlas_Billboards.tga
+¦   ¦   ¦       ¦   Palm_Desktop_Atlas_Billboards.tga.meta
+¦   ¦   ¦       ¦   Palm_Desktop_Atlas_Billboards_Normal.tga
+¦   ¦   ¦       ¦   Palm_Desktop_Atlas_Billboards_Normal.tga.meta
+¦   ¦   ¦       ¦   Palm_Desktop_Atlas_Normal.tga
+¦   ¦   ¦       ¦   Palm_Desktop_Atlas_Normal.tga.meta
+¦   ¦   ¦       ¦   Palm_Desktop_Atlas_Specular.tga
+¦   ¦   ¦       ¦   Palm_Desktop_Atlas_Specular.tga.meta
+¦   ¦   ¦       ¦   Thumb_Palm_Desktop.jpg
+¦   ¦   ¦       ¦   Thumb_Palm_Desktop.jpg.meta
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---Palm_Desktop Materials
+¦   ¦   ¦           ¦   Billboard.mat
+¦   ¦   ¦           ¦   Billboard.mat.meta
+¦   ¦   ¦           ¦   LOD0.meta
+¦   ¦   ¦           ¦   LOD1.meta
+¦   ¦   ¦           ¦   LOD2.meta
+¦   ¦   ¦           ¦   
+¦   ¦   ¦           +---LOD0
+¦   ¦   ¦           ¦       Branches_0.mat
+¦   ¦   ¦           ¦       Branches_0.mat.meta
+¦   ¦   ¦           ¦       Branches_1.mat
+¦   ¦   ¦           ¦       Branches_1.mat.meta
+¦   ¦   ¦           ¦       Fronds_2.mat
+¦   ¦   ¦           ¦       Fronds_2.mat.meta
+¦   ¦   ¦           ¦       Leaves_3.mat
+¦   ¦   ¦           ¦       Leaves_3.mat.meta
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---LOD1
+¦   ¦   ¦           ¦       Branches_0.mat
+¦   ¦   ¦           ¦       Branches_0.mat.meta
+¦   ¦   ¦           ¦       Fronds_2.mat
+¦   ¦   ¦           ¦       Fronds_2.mat.meta
+¦   ¦   ¦           ¦       Leaves_3.mat
+¦   ¦   ¦           ¦       Leaves_3.mat.meta
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---LOD2
+¦   ¦   ¦                   Branches_0.mat
+¦   ¦   ¦                   Branches_0.mat.meta
+¦   ¦   ¦                   Fronds_2.mat
+¦   ¦   ¦                   Fronds_2.mat.meta
+¦   ¦   ¦                   
+¦   ¦   +---TerrainAssets
+¦   ¦   ¦   ¦   BillboardTextures.meta
+¦   ¦   ¦   ¦   SurfaceTextures.meta
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---BillboardTextures
+¦   ¦   ¦   ¦       GrassFrond01AlbedoAlpha.psd
+¦   ¦   ¦   ¦       GrassFrond01AlbedoAlpha.psd.meta
+¦   ¦   ¦   ¦       GrassFrond02AlbedoAlpha.psd
+¦   ¦   ¦   ¦       GrassFrond02AlbedoAlpha.psd.meta
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---SurfaceTextures
+¦   ¦   ¦           CliffAlbedoSpecular.psd
+¦   ¦   ¦           CliffAlbedoSpecular.psd.meta
+¦   ¦   ¦           GrassHillAlbedo.psd
+¦   ¦   ¦           GrassHillAlbedo.psd.meta
+¦   ¦   ¦           GrassRockyAlbedo.psd
+¦   ¦   ¦           GrassRockyAlbedo.psd.meta
+¦   ¦   ¦           MudRockyAlbedoSpecular.bmp
+¦   ¦   ¦           MudRockyAlbedoSpecular.bmp.meta
+¦   ¦   ¦           MudRockyNormals.bmp
+¦   ¦   ¦           MudRockyNormals.bmp.meta
+¦   ¦   ¦           SandAlbedo.psd
+¦   ¦   ¦           SandAlbedo.psd.meta
+¦   ¦   ¦           
+¦   ¦   +---Water
+¦   ¦   ¦   ¦   DO_NOT_WORK_IN_VR.txt
+¦   ¦   ¦   ¦   DO_NOT_WORK_IN_VR.txt.meta
+¦   ¦   ¦   ¦   Water.meta
+¦   ¦   ¦   ¦   Water4.meta
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---Water
+¦   ¦   ¦   ¦   ¦   Materials.meta
+¦   ¦   ¦   ¦   ¦   Models.meta
+¦   ¦   ¦   ¦   ¦   Prefabs.meta
+¦   ¦   ¦   ¦   ¦   Scripts.meta
+¦   ¦   ¦   ¦   ¦   Shaders.meta
+¦   ¦   ¦   ¦   ¦   Textures.meta
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---Materials
+¦   ¦   ¦   ¦   ¦       WaterPlaneMaterial.mat
+¦   ¦   ¦   ¦   ¦       WaterPlaneMaterial.mat.meta
+¦   ¦   ¦   ¦   ¦       WaterProDaytime.mat
+¦   ¦   ¦   ¦   ¦       WaterProDaytime.mat.meta
+¦   ¦   ¦   ¦   ¦       WaterProNighttime.mat
+¦   ¦   ¦   ¦   ¦       WaterProNighttime.mat.meta
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Models
+¦   ¦   ¦   ¦   ¦       WaterPlane.fbx
+¦   ¦   ¦   ¦   ¦       WaterPlane.fbx.meta
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Prefabs
+¦   ¦   ¦   ¦   ¦       WaterProDaytime.prefab
+¦   ¦   ¦   ¦   ¦       WaterProDaytime.prefab.meta
+¦   ¦   ¦   ¦   ¦       WaterProNighttime.prefab
+¦   ¦   ¦   ¦   ¦       WaterProNighttime.prefab.meta
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Scripts
+¦   ¦   ¦   ¦   ¦       Displace.cs
+¦   ¦   ¦   ¦   ¦       Displace.cs.meta
+¦   ¦   ¦   ¦   ¦       GerstnerDisplace.cs
+¦   ¦   ¦   ¦   ¦       GerstnerDisplace.cs.meta
+¦   ¦   ¦   ¦   ¦       MeshContainer.cs
+¦   ¦   ¦   ¦   ¦       MeshContainer.cs.meta
+¦   ¦   ¦   ¦   ¦       PlanarReflection.cs
+¦   ¦   ¦   ¦   ¦       PlanarReflection.cs.meta
+¦   ¦   ¦   ¦   ¦       SpecularLighting.cs
+¦   ¦   ¦   ¦   ¦       SpecularLighting.cs.meta
+¦   ¦   ¦   ¦   ¦       Water.cs
+¦   ¦   ¦   ¦   ¦       Water.cs.meta
+¦   ¦   ¦   ¦   ¦       WaterBase.cs
+¦   ¦   ¦   ¦   ¦       WaterBase.cs.meta
+¦   ¦   ¦   ¦   ¦       WaterTile.cs
+¦   ¦   ¦   ¦   ¦       WaterTile.cs.meta
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Shaders
+¦   ¦   ¦   ¦   ¦       FXWaterPro.shader
+¦   ¦   ¦   ¦   ¦       FXWaterPro.shader.meta
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Textures
+¦   ¦   ¦   ¦           WaterBump.jpg
+¦   ¦   ¦   ¦           WaterBump.jpg.meta
+¦   ¦   ¦   ¦           WaterFresnel.psd
+¦   ¦   ¦   ¦           WaterFresnel.psd.meta
+¦   ¦   ¦   ¦           WaterProDaytimeGradient.psd
+¦   ¦   ¦   ¦           WaterProDaytimeGradient.psd.meta
+¦   ¦   ¦   ¦           WaterProNighttimeGradient.psd
+¦   ¦   ¦   ¦           WaterProNighttimeGradient.psd.meta
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---Water4
+¦   ¦   ¦       ¦   Materials.meta
+¦   ¦   ¦       ¦   Models.meta
+¦   ¦   ¦       ¦   Prefabs.meta
+¦   ¦   ¦       ¦   Shaders.meta
+¦   ¦   ¦       ¦   Textures.meta
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---Materials
+¦   ¦   ¦       ¦       OceanPlaneMaterial.mat
+¦   ¦   ¦       ¦       OceanPlaneMaterial.mat.meta
+¦   ¦   ¦       ¦       Water4Advanced.mat
+¦   ¦   ¦       ¦       Water4Advanced.mat.meta
+¦   ¦   ¦       ¦       Water4Simple.mat
+¦   ¦   ¦       ¦       Water4Simple.mat.meta
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---Models
+¦   ¦   ¦       ¦       OceanPlane.FBX
+¦   ¦   ¦       ¦       OceanPlane.FBX.meta
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---Prefabs
+¦   ¦   ¦       ¦       Water4Advanced.prefab
+¦   ¦   ¦       ¦       Water4Advanced.prefab.meta
+¦   ¦   ¦       ¦       Water4Simple.prefab
+¦   ¦   ¦       ¦       Water4Simple.prefab.meta
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---Shaders
+¦   ¦   ¦       ¦       FXWater4Advanced.shader
+¦   ¦   ¦       ¦       FXWater4Advanced.shader.meta
+¦   ¦   ¦       ¦       FXWater4Simple.shader
+¦   ¦   ¦       ¦       FXWater4Simple.shader.meta
+¦   ¦   ¦       ¦       WaterInclude.cginc
+¦   ¦   ¦       ¦       WaterInclude.cginc.meta
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---Textures
+¦   ¦   ¦               SimpleFoam.png
+¦   ¦   ¦               SimpleFoam.png.meta
+¦   ¦   ¦               SmallWaves.png
+¦   ¦   ¦               SmallWaves.png.meta
+¦   ¦   ¦               
+¦   ¦   +---Water (Basic)
+¦   ¦       ¦   DO_NOT_WORK_IN_VR.txt
+¦   ¦       ¦   DO_NOT_WORK_IN_VR.txt.meta
+¦   ¦       ¦   Materials.meta
+¦   ¦       ¦   Models.meta
+¦   ¦       ¦   Prefabs.meta
+¦   ¦       ¦   Scripts.meta
+¦   ¦       ¦   Shaders.meta
+¦   ¦       ¦   Textures.meta
+¦   ¦       ¦   
+¦   ¦       +---Materials
+¦   ¦       ¦       WaterBasicDaytime.mat
+¦   ¦       ¦       WaterBasicDaytime.mat.meta
+¦   ¦       ¦       WaterBasicNighttime.mat
+¦   ¦       ¦       WaterBasicNighttime.mat.meta
+¦   ¦       ¦       WaterDefault.mat
+¦   ¦       ¦       WaterDefault.mat.meta
+¦   ¦       ¦       
+¦   ¦       +---Models
+¦   ¦       ¦       WaterBasicPlane.fbx
+¦   ¦       ¦       WaterBasicPlane.fbx.meta
+¦   ¦       ¦       
+¦   ¦       +---Prefabs
+¦   ¦       ¦       WaterBasicDaytime.prefab
+¦   ¦       ¦       WaterBasicDaytime.prefab.meta
+¦   ¦       ¦       WaterBasicNightime.prefab
+¦   ¦       ¦       WaterBasicNightime.prefab.meta
+¦   ¦       ¦       
+¦   ¦       +---Scripts
+¦   ¦       ¦       WaterBasic.cs
+¦   ¦       ¦       WaterBasic.cs.meta
+¦   ¦       ¦       
+¦   ¦       +---Shaders
+¦   ¦       ¦       FXWaterBasic.shader
+¦   ¦       ¦       FXWaterBasic.shader.meta
+¦   ¦       ¦       
+¦   ¦       +---Textures
+¦   ¦               WaterBasicDaytimeGradient.psd
+¦   ¦               WaterBasicDaytimeGradient.psd.meta
+¦   ¦               WaterBasicNighttimeGradient.psd
+¦   ¦               WaterBasicNighttimeGradient.psd.meta
+¦   ¦               WaterBasicNormals.jpg
+¦   ¦               WaterBasicNormals.jpg.meta
+¦   ¦               
+¦   +---Fonts
+¦   ¦   ¦   New Material.mat
+¦   ¦   ¦   New Material.mat.meta
+¦   ¦   ¦   OpenSans.meta
+¦   ¦   ¦   RubikGlitch-Regular.ttf
+¦   ¦   ¦   RubikGlitch-Regular.ttf.meta
+¦   ¦   ¦   Unipix.ttf
+¦   ¦   ¦   Unipix.ttf.meta
+¦   ¦   ¦   
+¦   ¦   +---OpenSans
+¦   ¦           License!.txt
+¦   ¦           License!.txt.meta
+¦   ¦           OpenSansBold.ttf
+¦   ¦           OpenSansBold.ttf.meta
+¦   ¦           OpenSansLight.ttf
+¦   ¦           OpenSansLight.ttf.meta
+¦   ¦           OpenSansRegular.ttf
+¦   ¦           OpenSansRegular.ttf.meta
+¦   ¦           OpenSansSemibold.ttf
+¦   ¦           OpenSansSemibold.ttf.meta
+¦   ¦           
+¦   +---ParticleSystems
+¦   ¦   ¦   Materials.meta
+¦   ¦   ¦   ParticleSystemsGuidelines.txt
+¦   ¦   ¦   ParticleSystemsGuidelines.txt.meta
+¦   ¦   ¦   Prefabs.meta
+¦   ¦   ¦   Scripts.meta
+¦   ¦   ¦   Shaders.meta
+¦   ¦   ¦   Textures.meta
+¦   ¦   ¦   
+¦   ¦   +---Materials
+¦   ¦   ¦       ParticleAfterburner.mat
+¦   ¦   ¦       ParticleAfterburner.mat.meta
+¦   ¦   ¦       ParticleDuststorm.mat
+¦   ¦   ¦       ParticleDuststorm.mat.meta
+¦   ¦   ¦       ParticleFireball.mat
+¦   ¦   ¦       ParticleFireball.mat.meta
+¦   ¦   ¦       ParticleFirecloud.mat
+¦   ¦   ¦       ParticleFirecloud.mat.meta
+¦   ¦   ¦       ParticleFirework.mat
+¦   ¦   ¦       ParticleFirework.mat.meta
+¦   ¦   ¦       ParticleFlameLicks.mat
+¦   ¦   ¦       ParticleFlameLicks.mat.meta
+¦   ¦   ¦       ParticleFlames.mat
+¦   ¦   ¦       ParticleFlames.mat.meta
+¦   ¦   ¦       ParticleGlow.mat
+¦   ¦   ¦       ParticleGlow.mat.meta
+¦   ¦   ¦       ParticleSmokeBlack.mat
+¦   ¦   ¦       ParticleSmokeBlack.mat.meta
+¦   ¦   ¦       ParticleSmokeMobile.mat
+¦   ¦   ¦       ParticleSmokeMobile.mat.meta
+¦   ¦   ¦       ParticleSmokeVertlit.mat
+¦   ¦   ¦       ParticleSmokeVertlit.mat.meta
+¦   ¦   ¦       ParticleSmokeWhite.mat
+¦   ¦   ¦       ParticleSmokeWhite.mat.meta
+¦   ¦   ¦       ParticleSpark.mat
+¦   ¦   ¦       ParticleSpark.mat.meta
+¦   ¦   ¦       ParticleSplashes.mat
+¦   ¦   ¦       ParticleSplashes.mat.meta
+¦   ¦   ¦       ParticleSpray.mat
+¦   ¦   ¦       ParticleSpray.mat.meta
+¦   ¦   ¦       ParticleSteam.mat
+¦   ¦   ¦       ParticleSteam.mat.meta
+¦   ¦   ¦       ParticleSteamMobile.mat
+¦   ¦   ¦       ParticleSteamMobile.mat.meta
+¦   ¦   ¦       ParticleWaterSpray.mat
+¦   ¦   ¦       ParticleWaterSpray.mat.meta
+¦   ¦   ¦       
+¦   ¦   +---Prefabs
+¦   ¦   ¦       Afterburner.prefab
+¦   ¦   ¦       Afterburner.prefab.meta
+¦   ¦   ¦       DustStorm.prefab
+¦   ¦   ¦       DustStorm.prefab.meta
+¦   ¦   ¦       DustStormMobile.prefab
+¦   ¦   ¦       DustStormMobile.prefab.meta
+¦   ¦   ¦       Explosion.prefab
+¦   ¦   ¦       Explosion.prefab.meta
+¦   ¦   ¦       ExplosionMobile.prefab
+¦   ¦   ¦       ExplosionMobile.prefab.meta
+¦   ¦   ¦       FireComplex.prefab
+¦   ¦   ¦       FireComplex.prefab.meta
+¦   ¦   ¦       FireMobile.prefab
+¦   ¦   ¦       FireMobile.prefab.meta
+¦   ¦   ¦       Fireworks.prefab
+¦   ¦   ¦       Fireworks.prefab.meta
+¦   ¦   ¦       Flare.prefab
+¦   ¦   ¦       Flare.prefab.meta
+¦   ¦   ¦       FlareMobile.prefab
+¦   ¦   ¦       FlareMobile.prefab.meta
+¦   ¦   ¦       Hose.prefab
+¦   ¦   ¦       Hose.prefab.meta
+¦   ¦   ¦       HoseMobile.prefab
+¦   ¦   ¦       HoseMobile.prefab.meta
+¦   ¦   ¦       Smoke.prefab
+¦   ¦   ¦       Smoke.prefab.meta
+¦   ¦   ¦       Steam.prefab
+¦   ¦   ¦       Steam.prefab.meta
+¦   ¦   ¦       SteamMobile.prefab
+¦   ¦   ¦       SteamMobile.prefab.meta
+¦   ¦   ¦       TyreBurnoutSmoke.prefab
+¦   ¦   ¦       TyreBurnoutSmoke.prefab.meta
+¦   ¦   ¦       WildFire.prefab
+¦   ¦   ¦       WildFire.prefab.meta
+¦   ¦   ¦       
+¦   ¦   +---Scripts
+¦   ¦   ¦       AfterburnerPhysicsForce.cs
+¦   ¦   ¦       AfterburnerPhysicsForce.cs.meta
+¦   ¦   ¦       ExplosionFireAndDebris.cs
+¦   ¦   ¦       ExplosionFireAndDebris.cs.meta
+¦   ¦   ¦       ExplosionPhysicsForce.cs
+¦   ¦   ¦       ExplosionPhysicsForce.cs.meta
+¦   ¦   ¦       Explosive.cs
+¦   ¦   ¦       Explosive.cs.meta
+¦   ¦   ¦       ExtinguishableParticleSystem.cs
+¦   ¦   ¦       ExtinguishableParticleSystem.cs.meta
+¦   ¦   ¦       FireLight.cs
+¦   ¦   ¦       FireLight.cs.meta
+¦   ¦   ¦       Hose.cs
+¦   ¦   ¦       Hose.cs.meta
+¦   ¦   ¦       ParticleSystemMultiplier.cs
+¦   ¦   ¦       ParticleSystemMultiplier.cs.meta
+¦   ¦   ¦       SmokeParticles.cs
+¦   ¦   ¦       SmokeParticles.cs.meta
+¦   ¦   ¦       WaterHoseParticles.cs
+¦   ¦   ¦       WaterHoseParticles.cs.meta
+¦   ¦   ¦       
+¦   ¦   +---Shaders
+¦   ¦   ¦       PriorityParticleAdd.shader
+¦   ¦   ¦       PriorityParticleAdd.shader.meta
+¦   ¦   ¦       PriorityParticleAddSoft.shader
+¦   ¦   ¦       PriorityParticleAddSoft.shader.meta
+¦   ¦   ¦       PriorityParticleAlpha.shader
+¦   ¦   ¦       PriorityParticleAlpha.shader.meta
+¦   ¦   ¦       
+¦   ¦   +---Textures
+¦   ¦           ParticleBokeh.png
+¦   ¦           ParticleBokeh.png.meta
+¦   ¦           ParticleCloudBlack.png
+¦   ¦           ParticleCloudBlack.png.meta
+¦   ¦           ParticleCloudWhite.png
+¦   ¦           ParticleCloudWhite.png.meta
+¦   ¦           ParticleFireballSheet.png
+¦   ¦           ParticleFireballSheet.png.meta
+¦   ¦           ParticleFirecloud.png
+¦   ¦           ParticleFirecloud.png.meta
+¦   ¦           ParticleFlameLickSheet.png
+¦   ¦           ParticleFlameLickSheet.png.meta
+¦   ¦           ParticleFlamesSheet.png
+¦   ¦           ParticleFlamesSheet.png.meta
+¦   ¦           ParticleFlare.png
+¦   ¦           ParticleFlare.png.meta
+¦   ¦           Spark.png
+¦   ¦           Spark.png.meta
+¦   ¦           SplashesFineParticle.png
+¦   ¦           SplashesFineParticle.png.meta
+¦   ¦           SplashesLargeParticle.png
+¦   ¦           SplashesLargeParticle.png.meta
+¦   ¦           
+¦   +---PhysicsMaterials
+¦   ¦       Bouncy.physicmaterial
+¦   ¦       Bouncy.physicmaterial.meta
+¦   ¦       Ice.physicmaterial
+¦   ¦       Ice.physicmaterial.meta
+¦   ¦       MaxFriction.physicMaterial
+¦   ¦       MaxFriction.physicMaterial.meta
+¦   ¦       Metal.physicmaterial
+¦   ¦       Metal.physicmaterial.meta
+¦   ¦       Rubber.physicmaterial
+¦   ¦       Rubber.physicmaterial.meta
+¦   ¦       Wood.physicmaterial
+¦   ¦       Wood.physicmaterial.meta
+¦   ¦       ZeroFriction.physicMaterial
+¦   ¦       ZeroFriction.physicMaterial.meta
+¦   ¦       
+¦   +---Prototyping
+¦   ¦   ¦   Materials.meta
+¦   ¦   ¦   Models.meta
+¦   ¦   ¦   Prefabs.meta
+¦   ¦   ¦   Shaders.meta
+¦   ¦   ¦   Textures.meta
+¦   ¦   ¦   
+¦   ¦   +---Materials
+¦   ¦   ¦       NavyGrid.mat
+¦   ¦   ¦       NavyGrid.mat.meta
+¦   ¦   ¦       NavySmooth.mat
+¦   ¦   ¦       NavySmooth.mat.meta
+¦   ¦   ¦       PinkGrid.mat
+¦   ¦   ¦       PinkGrid.mat.meta
+¦   ¦   ¦       PinkSmooth.mat
+¦   ¦   ¦       PinkSmooth.mat.meta
+¦   ¦   ¦       YellowGrid.mat
+¦   ¦   ¦       YellowGrid.mat.meta
+¦   ¦   ¦       YellowSmooth.mat
+¦   ¦   ¦       YellowSmooth.mat.meta
+¦   ¦   ¦       
+¦   ¦   +---Models
+¦   ¦   ¦       BlockPrototype04x04x04.fbx
+¦   ¦   ¦       BlockPrototype04x04x04.fbx.meta
+¦   ¦   ¦       CubePrototype02x02x02.fbx
+¦   ¦   ¦       CubePrototype02x02x02.fbx.meta
+¦   ¦   ¦       CubePrototype04x04x04.fbx
+¦   ¦   ¦       CubePrototype04x04x04.fbx.meta
+¦   ¦   ¦       CubePrototype08x08x08.fbx
+¦   ¦   ¦       CubePrototype08x08x08.fbx.meta
+¦   ¦   ¦       FloorPrototype04x01x04.fbx
+¦   ¦   ¦       FloorPrototype04x01x04.fbx.meta
+¦   ¦   ¦       FloorPrototype08x01x08.fbx
+¦   ¦   ¦       FloorPrototype08x01x08.fbx.meta
+¦   ¦   ¦       FloorPrototype64x01x64.fbx
+¦   ¦   ¦       FloorPrototype64x01x64.fbx.meta
+¦   ¦   ¦       HousePrototype16x16x24.fbx
+¦   ¦   ¦       HousePrototype16x16x24.fbx.meta
+¦   ¦   ¦       JoinInnerPrototype01x06x01.fbx
+¦   ¦   ¦       JoinInnerPrototype01x06x01.fbx.meta
+¦   ¦   ¦       JoinMidPrototype04x06x01.fbx
+¦   ¦   ¦       JoinMidPrototype04x06x01.fbx.meta
+¦   ¦   ¦       JoinOuterPrototype02x06x02.fbx
+¦   ¦   ¦       JoinOuterPrototype02x06x02.fbx.meta
+¦   ¦   ¦       PickupPrototype01x01x01.fbx
+¦   ¦   ¦       PickupPrototype01x01x01.fbx.meta
+¦   ¦   ¦       PillarPrototype01x02x01.fbx
+¦   ¦   ¦       PillarPrototype01x02x01.fbx.meta
+¦   ¦   ¦       PillarPrototype02x08x02.fbx
+¦   ¦   ¦       PillarPrototype02x08x02.fbx.meta
+¦   ¦   ¦       PlatformPrototype02x01x02.fbx
+¦   ¦   ¦       PlatformPrototype02x01x02.fbx.meta
+¦   ¦   ¦       PlatformPrototype04x01x04.fbx
+¦   ¦   ¦       PlatformPrototype04x01x04.fbx.meta
+¦   ¦   ¦       PlatformPrototype08x01x08.fbx
+¦   ¦   ¦       PlatformPrototype08x01x08.fbx.meta
+¦   ¦   ¦       RampPrototype04x02x02.fbx
+¦   ¦   ¦       RampPrototype04x02x02.fbx.meta
+¦   ¦   ¦       StepsPrototype04x02x02.fbx
+¦   ¦   ¦       StepsPrototype04x02x02.fbx.meta
+¦   ¦   ¦       WallPrototype08x08x01.fbx
+¦   ¦   ¦       WallPrototype08x08x01.fbx.meta
+¦   ¦   ¦       
+¦   ¦   +---Prefabs
+¦   ¦   ¦       BlockPrototype04x04x04.prefab
+¦   ¦   ¦       BlockPrototype04x04x04.prefab.meta
+¦   ¦   ¦       CubePrototype02x02x02.prefab
+¦   ¦   ¦       CubePrototype02x02x02.prefab.meta
+¦   ¦   ¦       CubePrototype04x04x04.prefab
+¦   ¦   ¦       CubePrototype04x04x04.prefab.meta
+¦   ¦   ¦       CubePrototype08x08x08.prefab
+¦   ¦   ¦       CubePrototype08x08x08.prefab.meta
+¦   ¦   ¦       FloorPrototype04x01x04.prefab
+¦   ¦   ¦       FloorPrototype04x01x04.prefab.meta
+¦   ¦   ¦       FloorPrototype08x01x08.prefab
+¦   ¦   ¦       FloorPrototype08x01x08.prefab.meta
+¦   ¦   ¦       FloorPrototype64x01x64.prefab
+¦   ¦   ¦       FloorPrototype64x01x64.prefab.meta
+¦   ¦   ¦       HousePrototype16x16x24.prefab
+¦   ¦   ¦       HousePrototype16x16x24.prefab.meta
+¦   ¦   ¦       JoinInnerPrototype01x06x01.prefab
+¦   ¦   ¦       JoinInnerPrototype01x06x01.prefab.meta
+¦   ¦   ¦       JoinMidPrototype04x06x01.prefab
+¦   ¦   ¦       JoinMidPrototype04x06x01.prefab.meta
+¦   ¦   ¦       JoinOuterPrototype02x06x02.prefab
+¦   ¦   ¦       JoinOuterPrototype02x06x02.prefab.meta
+¦   ¦   ¦       PickupPrototype.prefab
+¦   ¦   ¦       PickupPrototype.prefab.meta
+¦   ¦   ¦       PillarPrototype01x02x01.prefab
+¦   ¦   ¦       PillarPrototype01x02x01.prefab.meta
+¦   ¦   ¦       PillarPrototype02x08x02.prefab
+¦   ¦   ¦       PillarPrototype02x08x02.prefab.meta
+¦   ¦   ¦       PlatformPrototype02x01x02.prefab
+¦   ¦   ¦       PlatformPrototype02x01x02.prefab.meta
+¦   ¦   ¦       PlatformPrototype04x01x04.prefab
+¦   ¦   ¦       PlatformPrototype04x01x04.prefab.meta
+¦   ¦   ¦       PlatformPrototype08x01x08.prefab
+¦   ¦   ¦       PlatformPrototype08x01x08.prefab.meta
+¦   ¦   ¦       RampPrototype04x02x02.prefab
+¦   ¦   ¦       RampPrototype04x02x02.prefab.meta
+¦   ¦   ¦       StepsPrototype04x02x02.prefab
+¦   ¦   ¦       StepsPrototype04x02x02.prefab.meta
+¦   ¦   ¦       WallPrototype08x08x01.prefab
+¦   ¦   ¦       WallPrototype08x08x01.prefab.meta
+¦   ¦   ¦       
+¦   ¦   +---Shaders
+¦   ¦   ¦       WorldCoordDiffuse.shader
+¦   ¦   ¦       WorldCoordDiffuse.shader.meta
+¦   ¦   ¦       
+¦   ¦   +---Textures
+¦   ¦           GridEmissive.png
+¦   ¦           GridEmissive.png.meta
+¦   ¦           SwatchMauveAlbedo.png
+¦   ¦           SwatchMauveAlbedo.png.meta
+¦   ¦           SwatchNavyAlbedo.png
+¦   ¦           SwatchNavyAlbedo.png.meta
+¦   ¦           SwatchNavyDarkAlbedo.png
+¦   ¦           SwatchNavyDarkAlbedo.png.meta
+¦   ¦           SwatchOrangeAlbedo.png
+¦   ¦           SwatchOrangeAlbedo.png.meta
+¦   ¦           SwatchPinkDAlbedo.png
+¦   ¦           SwatchPinkDAlbedo.png.meta
+¦   ¦           SwatchTealAlbedo.png
+¦   ¦           SwatchTealAlbedo.png.meta
+¦   ¦           SwatchTurquoiseAlbedo.png
+¦   ¦           SwatchTurquoiseAlbedo.png.meta
+¦   ¦           SwatchWhiteAlbedo.png
+¦   ¦           SwatchWhiteAlbedo.png.meta
+¦   ¦           SwatchYellowAlbedo.png
+¦   ¦           SwatchYellowAlbedo.png.meta
+¦   ¦           
+¦   +---Utility
+¦   ¦   ¦   ActivateTrigger.cs
+¦   ¦   ¦   ActivateTrigger.cs.meta
+¦   ¦   ¦   AlphaButtonClickMask.cs
+¦   ¦   ¦   AlphaButtonClickMask.cs.meta
+¦   ¦   ¦   AutoMobileShaderSwitch.cs
+¦   ¦   ¦   AutoMobileShaderSwitch.cs.meta
+¦   ¦   ¦   AutoMoveAndRotate.cs
+¦   ¦   ¦   AutoMoveAndRotate.cs.meta
+¦   ¦   ¦   CameraRefocus.cs
+¦   ¦   ¦   CameraRefocus.cs.meta
+¦   ¦   ¦   CurveControlledBob.cs
+¦   ¦   ¦   CurveControlledBob.cs.meta
+¦   ¦   ¦   DragRigidbody.cs
+¦   ¦   ¦   DragRigidbody.cs.meta
+¦   ¦   ¦   DynamicShadowSettings.cs
+¦   ¦   ¦   DynamicShadowSettings.cs.meta
+¦   ¦   ¦   EventSystemChecker.cs
+¦   ¦   ¦   EventSystemChecker.cs.meta
+¦   ¦   ¦   FollowTarget.cs
+¦   ¦   ¦   FollowTarget.cs.meta
+¦   ¦   ¦   ForcedReset.cs
+¦   ¦   ¦   ForcedReset.cs.meta
+¦   ¦   ¦   FOVKick.cs
+¦   ¦   ¦   FOVKick.cs.meta
+¦   ¦   ¦   FPSCounter.cs
+¦   ¦   ¦   FPSCounter.cs.meta
+¦   ¦   ¦   LerpControlledBob.cs
+¦   ¦   ¦   LerpControlledBob.cs.meta
+¦   ¦   ¦   ObjectResetter.cs
+¦   ¦   ¦   ObjectResetter.cs.meta
+¦   ¦   ¦   ParticleSystemDestroyer.cs
+¦   ¦   ¦   ParticleSystemDestroyer.cs.meta
+¦   ¦   ¦   PlatformSpecificContent.cs
+¦   ¦   ¦   PlatformSpecificContent.cs.meta
+¦   ¦   ¦   Prefabs.meta
+¦   ¦   ¦   SimpleActivatorMenu.cs
+¦   ¦   ¦   SimpleActivatorMenu.cs.meta
+¦   ¦   ¦   SimpleMouseRotator.cs
+¦   ¦   ¦   SimpleMouseRotator.cs.meta
+¦   ¦   ¦   SmoothFollow.cs
+¦   ¦   ¦   SmoothFollow.cs.meta
+¦   ¦   ¦   TimedObjectActivator.cs
+¦   ¦   ¦   TimedObjectActivator.cs.meta
+¦   ¦   ¦   TimedObjectDestructor.cs
+¦   ¦   ¦   TimedObjectDestructor.cs.meta
+¦   ¦   ¦   WaypointCircuit.cs
+¦   ¦   ¦   WaypointCircuit.cs.meta
+¦   ¦   ¦   WaypointProgressTracker.cs
+¦   ¦   ¦   WaypointProgressTracker.cs.meta
+¦   ¦   ¦   
+¦   ¦   +---Prefabs
+¦   ¦           FramerateCounter.prefab
+¦   ¦           FramerateCounter.prefab.meta
+¦   ¦           
+¦   +---Vehicles
+¦       ¦   Aircraft.meta
+¦       ¦   Car.meta
+¦       ¦   
+¦       +---Aircraft
+¦       ¦   ¦   AircraftGuidelines.txt
+¦       ¦   ¦   AircraftGuidelines.txt.meta
+¦       ¦   ¦   Animation.meta
+¦       ¦   ¦   Audio.meta
+¦       ¦   ¦   Materials.meta
+¦       ¦   ¦   Models.meta
+¦       ¦   ¦   Prefabs.meta
+¦       ¦   ¦   Scripts.meta
+¦       ¦   ¦   Textures.meta
+¦       ¦   ¦   
+¦       ¦   +---Animation
+¦       ¦   ¦       JetGearLower.anim
+¦       ¦   ¦       JetGearLower.anim.meta
+¦       ¦   ¦       JetGearLowered.anim
+¦       ¦   ¦       JetGearLowered.anim.meta
+¦       ¦   ¦       JetGearRaise.anim
+¦       ¦   ¦       JetGearRaise.anim.meta
+¦       ¦   ¦       JetGearRaised.anim
+¦       ¦   ¦       JetGearRaised.anim.meta
+¦       ¦   ¦       JetPlane.controller
+¦       ¦   ¦       JetPlane.controller.meta
+¦       ¦   ¦       PropGearLower.anim
+¦       ¦   ¦       PropGearLower.anim.meta
+¦       ¦   ¦       PropGearLowered.anim
+¦       ¦   ¦       PropGearLowered.anim.meta
+¦       ¦   ¦       PropGearRaise.anim
+¦       ¦   ¦       PropGearRaise.anim.meta
+¦       ¦   ¦       PropGearRaised.anim
+¦       ¦   ¦       PropGearRaised.anim.meta
+¦       ¦   ¦       PropPlane.controller
+¦       ¦   ¦       PropPlane.controller.meta
+¦       ¦   ¦       
+¦       ¦   +---Audio
+¦       ¦   ¦       FlightWind.wav
+¦       ¦   ¦       FlightWind.wav.meta
+¦       ¦   ¦       JetEngine.wav
+¦       ¦   ¦       JetEngine.wav.meta
+¦       ¦   ¦       PropellerEngine.wav
+¦       ¦   ¦       PropellerEngine.wav.meta
+¦       ¦   ¦       
+¦       ¦   +---Materials
+¦       ¦   ¦       AircraftFuselageGrey.mat
+¦       ¦   ¦       AircraftFuselageGrey.mat.meta
+¦       ¦   ¦       AircraftFuselageWhite.mat
+¦       ¦   ¦       AircraftFuselageWhite.mat.meta
+¦       ¦   ¦       AircraftWingsJetGrey.mat
+¦       ¦   ¦       AircraftWingsJetGrey.mat.meta
+¦       ¦   ¦       AircraftWingsJetWhite.mat
+¦       ¦   ¦       AircraftWingsJetWhite.mat.meta
+¦       ¦   ¦       AircraftWingsPropellerBlurGrey.mat
+¦       ¦   ¦       AircraftWingsPropellerBlurGrey.mat.meta
+¦       ¦   ¦       AircraftWingsPropellerBlurWhite.mat
+¦       ¦   ¦       AircraftWingsPropellerBlurWhite.mat.meta
+¦       ¦   ¦       AircraftWingsPropellersGrey.mat
+¦       ¦   ¦       AircraftWingsPropellersGrey.mat.meta
+¦       ¦   ¦       AircraftWingsPropellersWhite.mat
+¦       ¦   ¦       AircraftWingsPropellersWhite.mat.meta
+¦       ¦   ¦       ParticleAfterburner.mat
+¦       ¦   ¦       ParticleAfterburner.mat.meta
+¦       ¦   ¦       ParticleContrail.mat
+¦       ¦   ¦       ParticleContrail.mat.meta
+¦       ¦   ¦       ParticleJetTrail.mat
+¦       ¦   ¦       ParticleJetTrail.mat.meta
+¦       ¦   ¦       
+¦       ¦   +---Models
+¦       ¦   ¦       AircraftFuselage.fbx
+¦       ¦   ¦       AircraftFuselage.fbx.meta
+¦       ¦   ¦       AircraftWingsJet.fbx
+¦       ¦   ¦       AircraftWingsJet.fbx.meta
+¦       ¦   ¦       AircraftWingsPropeller.fbx
+¦       ¦   ¦       AircraftWingsPropeller.fbx.meta
+¦       ¦   ¦       
+¦       ¦   +---Prefabs
+¦       ¦   ¦       AircraftJet.prefab
+¦       ¦   ¦       AircraftJet.prefab.meta
+¦       ¦   ¦       AircraftJetAI.prefab
+¦       ¦   ¦       AircraftJetAI.prefab.meta
+¦       ¦   ¦       AircraftPropeller.prefab
+¦       ¦   ¦       AircraftPropeller.prefab.meta
+¦       ¦   ¦       AircraftPropellerAi.prefab
+¦       ¦   ¦       AircraftPropellerAi.prefab.meta
+¦       ¦   ¦       
+¦       ¦   +---Scripts
+¦       ¦   ¦       AeroplaneAiControl.cs
+¦       ¦   ¦       AeroplaneAiControl.cs.meta
+¦       ¦   ¦       AeroplaneAudio.cs
+¦       ¦   ¦       AeroplaneAudio.cs.meta
+¦       ¦   ¦       AeroplaneController.cs
+¦       ¦   ¦       AeroplaneController.cs.meta
+¦       ¦   ¦       AeroplaneControlSurfaceAnimator.cs
+¦       ¦   ¦       AeroplaneControlSurfaceAnimator.cs.meta
+¦       ¦   ¦       AeroplanePropellerAnimator.cs
+¦       ¦   ¦       AeroplanePropellerAnimator.cs.meta
+¦       ¦   ¦       AeroplaneUserControl2Axis.cs
+¦       ¦   ¦       AeroplaneUserControl2Axis.cs.meta
+¦       ¦   ¦       AeroplaneUserControl4Axis.cs
+¦       ¦   ¦       AeroplaneUserControl4Axis.cs.meta
+¦       ¦   ¦       JetParticleEffect.cs
+¦       ¦   ¦       JetParticleEffect.cs.meta
+¦       ¦   ¦       LandingGear.cs
+¦       ¦   ¦       LandingGear.cs.meta
+¦       ¦   ¦       
+¦       ¦   +---Textures
+¦       ¦           AircraftFuselageNormals.png
+¦       ¦           AircraftFuselageNormals.png.meta
+¦       ¦           AircraftFuselageOcclusion.png
+¦       ¦           AircraftFuselageOcclusion.png.meta
+¦       ¦           AircraftPropellerBlur01GreyAlbedo.png
+¦       ¦           AircraftPropellerBlur01GreyAlbedo.png.meta
+¦       ¦           AircraftPropellerBlur01WhiteAlbedo.png
+¦       ¦           AircraftPropellerBlur01WhiteAlbedo.png.meta
+¦       ¦           AircraftPropellerBlur02GreyAlbedo.png
+¦       ¦           AircraftPropellerBlur02GreyAlbedo.png.meta
+¦       ¦           AircraftPropellerBlur02WhiteAlbedo.png
+¦       ¦           AircraftPropellerBlur02WhiteAlbedo.png.meta
+¦       ¦           AircraftPropellerBlur03GreyAlbedo.png
+¦       ¦           AircraftPropellerBlur03GreyAlbedo.png.meta
+¦       ¦           AircraftPropellerBlur03WhiteAlbedo.png
+¦       ¦           AircraftPropellerBlur03WhiteAlbedo.png.meta
+¦       ¦           AircraftWingsJetNormals.png
+¦       ¦           AircraftWingsJetNormals.png.meta
+¦       ¦           AircraftWingsJetOcclusion.png
+¦       ¦           AircraftWingsJetOcclusion.png.meta
+¦       ¦           AircraftWingsPropellerNormals.png
+¦       ¦           AircraftWingsPropellerNormals.png.meta
+¦       ¦           AircraftWingsPropellerOcclusion.png
+¦       ¦           AircraftWingsPropellerOcclusion.png.meta
+¦       ¦           
+¦       +---Car
+¦           ¦   Audio.meta
+¦           ¦   CarGuidelines.txt
+¦           ¦   CarGuidelines.txt.meta
+¦           ¦   Materials.meta
+¦           ¦   Models.meta
+¦           ¦   Prefabs.meta
+¦           ¦   Scripts.meta
+¦           ¦   Shaders.meta
+¦           ¦   Textures.meta
+¦           ¦   
+¦           +---Audio
+¦           ¦       AccelerationHigh.wav
+¦           ¦       AccelerationHigh.wav.meta
+¦           ¦       AccelerationLow.wav
+¦           ¦       AccelerationLow.wav.meta
+¦           ¦       DecelerationHigh.wav
+¦           ¦       DecelerationHigh.wav.meta
+¦           ¦       DecelerationLow.wav
+¦           ¦       DecelerationLow.wav.meta
+¦           ¦       Skid.wav
+¦           ¦       Skid.wav.meta
+¦           ¦       
+¦           +---Materials
+¦           ¦       ParticleBurnout.mat
+¦           ¦       ParticleBurnout.mat.meta
+¦           ¦       ParticleSmokeWhite.mat
+¦           ¦       ParticleSmokeWhite.mat.meta
+¦           ¦       SkyCarBodyGrey.mat
+¦           ¦       SkyCarBodyGrey.mat.meta
+¦           ¦       SkyCarBodyWhite.mat
+¦           ¦       SkyCarBodyWhite.mat.meta
+¦           ¦       SkyCarLightCoversGrey.mat
+¦           ¦       SkyCarLightCoversGrey.mat.meta
+¦           ¦       SkyCarLightCoversWhite.mat
+¦           ¦       SkyCarLightCoversWhite.mat.meta
+¦           ¦       SkyCarLightGlows.mat
+¦           ¦       SkyCarLightGlows.mat.meta
+¦           ¦       SkyCarWheelGrey.mat
+¦           ¦       SkyCarWheelGrey.mat.meta
+¦           ¦       SkyCarWheelWhite.mat
+¦           ¦       SkyCarWheelWhite.mat.meta
+¦           ¦       TrailSkid.mat
+¦           ¦       TrailSkid.mat.meta
+¦           ¦       
+¦           +---Models
+¦           ¦       SkyCar.fbx
+¦           ¦       SkyCar.fbx.meta
+¦           ¦       
+¦           +---Prefabs
+¦           ¦       Car.prefab
+¦           ¦       Car.prefab.meta
+¦           ¦       CarWaypointBased.prefab
+¦           ¦       CarWaypointBased.prefab.meta
+¦           ¦       SkidTrail.prefab
+¦           ¦       SkidTrail.prefab.meta
+¦           ¦       
+¦           +---Scripts
+¦           ¦       BrakeLight.cs
+¦           ¦       BrakeLight.cs.meta
+¦           ¦       CarAIControl.cs
+¦           ¦       CarAIControl.cs.meta
+¦           ¦       CarAudio.cs
+¦           ¦       CarAudio.cs.meta
+¦           ¦       CarController.cs
+¦           ¦       CarController.cs.meta
+¦           ¦       CarSelfRighting.cs
+¦           ¦       CarSelfRighting.cs.meta
+¦           ¦       CarUserControl.cs
+¦           ¦       CarUserControl.cs.meta
+¦           ¦       Mudguard.cs
+¦           ¦       Mudguard.cs.meta
+¦           ¦       SkidTrail.cs
+¦           ¦       SkidTrail.cs.meta
+¦           ¦       Suspension.cs
+¦           ¦       Suspension.cs.meta
+¦           ¦       WheelEffects.cs
+¦           ¦       WheelEffects.cs.meta
+¦           ¦       
+¦           +---Shaders
+¦           ¦       DiffuseReflectiveShader.shader
+¦           ¦       DiffuseReflectiveShader.shader.meta
+¦           ¦       ReflectiveDiffuseSpec.shader
+¦           ¦       ReflectiveDiffuseSpec.shader.meta
+¦           ¦       ReflectiveDiffuseSpecTransp.shader
+¦           ¦       ReflectiveDiffuseSpecTransp.shader.meta
+¦           ¦       
+¦           +---Textures
+¦                   ParticleCloudWhite.png
+¦                   ParticleCloudWhite.png.meta
+¦                   SkidTrailAlbedo.png
+¦                   SkidTrailAlbedo.png.meta
+¦                   SkyCarBodyNormals.png
+¦                   SkyCarBodyNormals.png.meta
+¦                   SkyCarBodyOcclusion.png
+¦                   SkyCarBodyOcclusion.png.meta
+¦                   SkyCarLightsGlowAlpha.png
+¦                   SkyCarLightsGlowAlpha.png.meta
+¦                   SkyCarWheelNormals.png
+¦                   SkyCarWheelNormals.png.meta
+¦                   SkyCarWheelOcclusion.png
+¦                   SkyCarWheelOcclusion.png.meta
+¦                   
++---TextMesh Pro
+¦   ¦   Documentation.meta
+¦   ¦   Resources.meta
+¦   ¦   Sprites.meta
+¦   ¦   
+¦   +---Documentation
+¦   ¦       TextMesh Pro User Guide 2016.pdf
+¦   ¦       TextMesh Pro User Guide 2016.pdf.meta
+¦   ¦       
+¦   +---Resources
+¦   ¦   ¦   Fonts & Materials.meta
+¦   ¦   ¦   LineBreaking Following Characters.txt
+¦   ¦   ¦   LineBreaking Following Characters.txt.meta
+¦   ¦   ¦   LineBreaking Leading Characters.txt
+¦   ¦   ¦   LineBreaking Leading Characters.txt.meta
+¦   ¦   ¦   Shaders.meta
+¦   ¦   ¦   Sprite Assets.meta
+¦   ¦   ¦   Style Sheets.meta
+¦   ¦   ¦   TMP Settings.asset
+¦   ¦   ¦   TMP Settings.asset.meta
+¦   ¦   ¦   
+¦   ¦   +---Fonts & Materials
+¦   ¦   ¦       LiberationSans SDF - Drop Shadow.mat
+¦   ¦   ¦       LiberationSans SDF - Drop Shadow.mat.meta
+¦   ¦   ¦       LiberationSans SDF - Outline.mat
+¦   ¦   ¦       LiberationSans SDF - Outline.mat.meta
+¦   ¦   ¦       LiberationSans SDF.asset
+¦   ¦   ¦       LiberationSans SDF.asset.meta
+¦   ¦   ¦       
+¦   ¦   +---Shaders
+¦   ¦   ¦       TMPro.cginc
+¦   ¦   ¦       TMPro.cginc.meta
+¦   ¦   ¦       TMPro_Properties.cginc
+¦   ¦   ¦       TMPro_Properties.cginc.meta
+¦   ¦   ¦       TMPro_Surface.cginc
+¦   ¦   ¦       TMPro_Surface.cginc.meta
+¦   ¦   ¦       TMP_Bitmap-Custom-Atlas.shader
+¦   ¦   ¦       TMP_Bitmap-Custom-Atlas.shader.meta
+¦   ¦   ¦       TMP_Bitmap-Mobile.shader
+¦   ¦   ¦       TMP_Bitmap-Mobile.shader.meta
+¦   ¦   ¦       TMP_Bitmap.shader
+¦   ¦   ¦       TMP_Bitmap.shader.meta
+¦   ¦   ¦       TMP_SDF Overlay.shader
+¦   ¦   ¦       TMP_SDF Overlay.shader.meta
+¦   ¦   ¦       TMP_SDF-Mobile Masking.shader
+¦   ¦   ¦       TMP_SDF-Mobile Masking.shader.meta
+¦   ¦   ¦       TMP_SDF-Mobile Overlay.shader
+¦   ¦   ¦       TMP_SDF-Mobile Overlay.shader.meta
+¦   ¦   ¦       TMP_SDF-Mobile.shader
+¦   ¦   ¦       TMP_SDF-Mobile.shader.meta
+¦   ¦   ¦       TMP_SDF-Surface-Mobile.shader
+¦   ¦   ¦       TMP_SDF-Surface-Mobile.shader.meta
+¦   ¦   ¦       TMP_SDF-Surface.shader
+¦   ¦   ¦       TMP_SDF-Surface.shader.meta
+¦   ¦   ¦       TMP_SDF.shader
+¦   ¦   ¦       TMP_SDF.shader.meta
+¦   ¦   ¦       TMP_Sprite.shader
+¦   ¦   ¦       TMP_Sprite.shader.meta
+¦   ¦   ¦       
+¦   ¦   +---Sprite Assets
+¦   ¦   ¦       EmojiOne.asset
+¦   ¦   ¦       EmojiOne.asset.meta
+¦   ¦   ¦       
+¦   ¦   +---Style Sheets
+¦   ¦           Default Style Sheet.asset
+¦   ¦           Default Style Sheet.asset.meta
+¦   ¦           
+¦   +---Sprites
+¦           EmojiOne Attribution.txt
+¦           EmojiOne Attribution.txt.meta
+¦           EmojiOne.json
+¦           EmojiOne.json.meta
+¦           EmojiOne.png
+¦           EmojiOne.png.meta
+¦           
++---Textures
+¦       DojoCarpet.png
+¦       DojoCarpet.png.meta
+¦       Med-Kit_Texture.png
+¦       Med-Kit_Texture.png.meta
+¦       rosewood_veneer1_ao_2k.jpg
+¦       rosewood_veneer1_ao_2k.jpg.meta
+¦       rosewood_veneer1_diff_2k.jpg
+¦       rosewood_veneer1_diff_2k.jpg.meta
+¦       rosewood_veneer1_disp_2k.png
+¦       rosewood_veneer1_disp_2k.png.meta
+¦       rosewood_veneer1_nor_gl_2k.exr
+¦       rosewood_veneer1_nor_gl_2k.exr.meta
+¦       rosewood_veneer1_rough_2k.exr
+¦       rosewood_veneer1_rough_2k.exr.meta
+¦       street_lamp_02_diff_2k.jpg
+¦       street_lamp_02_diff_2k.jpg.meta
+¦       street_lamp_02_metal_2k.exr
+¦       street_lamp_02_metal_2k.exr.meta
+¦       street_lamp_02_nor_gl_2k.exr
+¦       street_lamp_02_nor_gl_2k.exr.meta
+¦       street_lamp_02_opacity_2k.png
+¦       street_lamp_02_opacity_2k.png.meta
+¦       street_lamp_02_rough_2k.exr
+¦       street_lamp_02_rough_2k.exr.meta
+¦       WhitePaper.png
+¦       WhitePaper.png.meta
+¦       worn_planks_diff_2k.jpg
+¦       worn_planks_diff_2k.jpg.meta
+¦       worn_planks_disp_2k.png
+¦       worn_planks_disp_2k.png.meta
+¦       worn_planks_nor_gl_2k.exr
+¦       worn_planks_nor_gl_2k.exr.meta
+¦       worn_planks_rough_2k.exr
+¦       worn_planks_rough_2k.exr.meta
+¦       
++---Unity Recorder
+    ¦   Documentation.meta
+    ¦   Editor.meta
+    ¦   LICENSE.md
+    ¦   LICENSE.md.meta
+    ¦   Runtime.meta
+    ¦   Samples.meta
+    ¦   
+    +---Documentation
+    ¦       UnityRecorderV1UserManual.pdf
+    ¦       UnityRecorderV1UserManual.pdf.meta
+    ¦       
+    +---Editor
+    ¦   ¦   Sources.meta
+    ¦   ¦   Timeline.meta
+    ¦   ¦   Unity.Recorder.Editor.asmdef
+    ¦   ¦   Unity.Recorder.Editor.asmdef.meta
+    ¦   ¦   
+    ¦   +---Sources
+    ¦   ¦   ¦   AspectRatio.cs
+    ¦   ¦   ¦   AspectRatio.cs.meta
+    ¦   ¦   ¦   AspectRatioPropertyDrawer.cs
+    ¦   ¦   ¦   AspectRatioPropertyDrawer.cs.meta
+    ¦   ¦   ¦   BaseRenderTextureInput.cs
+    ¦   ¦   ¦   BaseRenderTextureInput.cs.meta
+    ¦   ¦   ¦   EditableLabel.cs
+    ¦   ¦   ¦   EditableLabel.cs.meta
+    ¦   ¦   ¦   EnumProperyDrawer.cs
+    ¦   ¦   ¦   EnumProperyDrawer.cs.meta
+    ¦   ¦   ¦   FileNameGenerator.cs
+    ¦   ¦   ¦   FileNameGenerator.cs.meta
+    ¦   ¦   ¦   FileNameGeneratorDrawer.cs
+    ¦   ¦   ¦   FileNameGeneratorDrawer.cs.meta
+    ¦   ¦   ¦   FrameRateProperyDrawer.cs
+    ¦   ¦   ¦   FrameRateProperyDrawer.cs.meta
+    ¦   ¦   ¦   GenericRecorder.cs
+    ¦   ¦   ¦   GenericRecorder.cs.meta
+    ¦   ¦   ¦   Helpers.meta
+    ¦   ¦   ¦   ImageHeightSelector.cs
+    ¦   ¦   ¦   ImageHeightSelector.cs.meta
+    ¦   ¦   ¦   ImageInputSelector.cs
+    ¦   ¦   ¦   ImageInputSelector.cs.meta
+    ¦   ¦   ¦   ImageInputSettings.cs
+    ¦   ¦   ¦   ImageInputSettings.cs.meta
+    ¦   ¦   ¦   InputPropertyDrawer.cs
+    ¦   ¦   ¦   InputPropertyDrawer.cs.meta
+    ¦   ¦   ¦   InputSettings.cs
+    ¦   ¦   ¦   InputSettings.cs.meta
+    ¦   ¦   ¦   InputSettingsSelector.cs
+    ¦   ¦   ¦   InputSettingsSelector.cs.meta
+    ¦   ¦   ¦   InputSettingsSelectorDrawer.cs
+    ¦   ¦   ¦   InputSettingsSelectorDrawer.cs.meta
+    ¦   ¦   ¦   InternalEnums.cs
+    ¦   ¦   ¦   InternalEnums.cs.meta
+    ¦   ¦   ¦   Options.cs
+    ¦   ¦   ¦   Options.cs.meta
+    ¦   ¦   ¦   OutputPath.cs
+    ¦   ¦   ¦   OutputPath.cs.meta
+    ¦   ¦   ¦   OutputPathDrawer.cs
+    ¦   ¦   ¦   OutputPathDrawer.cs.meta
+    ¦   ¦   ¦   OutputResolution.cs
+    ¦   ¦   ¦   OutputResolution.cs.meta
+    ¦   ¦   ¦   OutputResolutionPropertyDrawer.cs
+    ¦   ¦   ¦   OutputResolutionPropertyDrawer.cs.meta
+    ¦   ¦   ¦   PanelSplitter.cs
+    ¦   ¦   ¦   PanelSplitter.cs.meta
+    ¦   ¦   ¦   Recorder.cs
+    ¦   ¦   ¦   Recorder.cs.meta
+    ¦   ¦   ¦   RecorderController.cs
+    ¦   ¦   ¦   RecorderController.cs.meta
+    ¦   ¦   ¦   RecorderControllerSettings.cs
+    ¦   ¦   ¦   RecorderControllerSettings.cs.meta
+    ¦   ¦   ¦   RecorderControllerSettingsPreset.cs
+    ¦   ¦   ¦   RecorderControllerSettingsPreset.cs.meta
+    ¦   ¦   ¦   RecorderControllerSettingsPresetEditor.cs
+    ¦   ¦   ¦   RecorderControllerSettingsPresetEditor.cs.meta
+    ¦   ¦   ¦   RecorderEditor.cs
+    ¦   ¦   ¦   RecorderEditor.cs.meta
+    ¦   ¦   ¦   RecorderInput.cs
+    ¦   ¦   ¦   RecorderInput.cs.meta
+    ¦   ¦   ¦   RecorderItem.cs
+    ¦   ¦   ¦   RecorderItem.cs.meta
+    ¦   ¦   ¦   Recorders.meta
+    ¦   ¦   ¦   RecorderSettings.cs
+    ¦   ¦   ¦   RecorderSettings.cs.meta
+    ¦   ¦   ¦   RecorderSettingsAttribute.cs
+    ¦   ¦   ¦   RecorderSettingsAttribute.cs.meta
+    ¦   ¦   ¦   RecorderSettingsPrefsEditor.cs
+    ¦   ¦   ¦   RecorderSettingsPrefsEditor.cs.meta
+    ¦   ¦   ¦   RecordersInventory.cs
+    ¦   ¦   ¦   RecordersInventory.cs.meta
+    ¦   ¦   ¦   RecorderWindow.cs
+    ¦   ¦   ¦   RecorderWindow.cs.meta
+    ¦   ¦   ¦   RecordingSession.cs
+    ¦   ¦   ¦   RecordingSession.cs.meta
+    ¦   ¦   ¦   RecordModePropertyDrawer.cs
+    ¦   ¦   ¦   RecordModePropertyDrawer.cs.meta
+    ¦   ¦   ¦   Resources.meta
+    ¦   ¦   ¦   SceneHook.cs
+    ¦   ¦   ¦   SceneHook.cs.meta
+    ¦   ¦   ¦   TargetedPropertyDrawer.cs
+    ¦   ¦   ¦   TargetedPropertyDrawer.cs.meta
+    ¦   ¦   ¦   TextureFlipper.cs
+    ¦   ¦   ¦   TextureFlipper.cs.meta
+    ¦   ¦   ¦   VisualListItem.cs
+    ¦   ¦   ¦   VisualListItem.cs.meta
+    ¦   ¦   ¦   _RecorderComponent.cs
+    ¦   ¦   ¦   _RecorderComponent.cs.meta
+    ¦   ¦   ¦   
+    ¦   ¦   +---Helpers
+    ¦   ¦   ¦       EnumHelper.cs
+    ¦   ¦   ¦       EnumHelper.cs.meta
+    ¦   ¦   ¦       PresetHelper.cs
+    ¦   ¦   ¦       PresetHelper.cs.meta
+    ¦   ¦   ¦       SerializableObjHelper.cs
+    ¦   ¦   ¦       SerializableObjHelper.cs.meta
+    ¦   ¦   ¦       StatusBarHelper.cs
+    ¦   ¦   ¦       StatusBarHelper.cs.meta
+    ¦   ¦   ¦       UIElementHelper.cs
+    ¦   ¦   ¦       UIElementHelper.cs.meta
+    ¦   ¦   ¦       UnityHelpers.cs
+    ¦   ¦   ¦       UnityHelpers.cs.meta
+    ¦   ¦   ¦       
+    ¦   ¦   +---Recorders
+    ¦   ¦   ¦   ¦   AnimationRecorder.meta
+    ¦   ¦   ¦   ¦   GIFRecorder.meta
+    ¦   ¦   ¦   ¦   ImageRecorder.meta
+    ¦   ¦   ¦   ¦   MovieRecorder.meta
+    ¦   ¦   ¦   ¦   _Inputs.meta
+    ¦   ¦   ¦   ¦   _Legacy.meta
+    ¦   ¦   ¦   ¦   
+    ¦   ¦   ¦   +---AnimationRecorder
+    ¦   ¦   ¦   ¦   ¦   AnimationRecorder.cs
+    ¦   ¦   ¦   ¦   ¦   AnimationRecorder.cs.meta
+    ¦   ¦   ¦   ¦   ¦   AnimationRecorderSettings.cs
+    ¦   ¦   ¦   ¦   ¦   AnimationRecorderSettings.cs.meta
+    ¦   ¦   ¦   ¦   ¦   AnimationRecorderSettingsEditor.cs
+    ¦   ¦   ¦   ¦   ¦   AnimationRecorderSettingsEditor.cs.meta
+    ¦   ¦   ¦   ¦   ¦   Resources.meta
+    ¦   ¦   ¦   ¦   ¦   
+    ¦   ¦   ¦   ¦   +---Resources
+    ¦   ¦   ¦   ¦           animation_recorder.png
+    ¦   ¦   ¦   ¦           animation_recorder.png.meta
+    ¦   ¦   ¦   ¦           
+    ¦   ¦   ¦   +---GIFRecorder
+    ¦   ¦   ¦   ¦       GIFRecorder.cs
+    ¦   ¦   ¦   ¦       GIFRecorder.cs.meta
+    ¦   ¦   ¦   ¦       GIFRecorderSettings.cs
+    ¦   ¦   ¦   ¦       GIFRecorderSettings.cs.meta
+    ¦   ¦   ¦   ¦       GIFRecorderSettingsEditor.cs
+    ¦   ¦   ¦   ¦       GIFRecorderSettingsEditor.cs.meta
+    ¦   ¦   ¦   ¦       
+    ¦   ¦   ¦   +---ImageRecorder
+    ¦   ¦   ¦   ¦   ¦   ImageRecorder.cs
+    ¦   ¦   ¦   ¦   ¦   ImageRecorder.cs.meta
+    ¦   ¦   ¦   ¦   ¦   ImageRecorderEditor.cs
+    ¦   ¦   ¦   ¦   ¦   ImageRecorderEditor.cs.meta
+    ¦   ¦   ¦   ¦   ¦   ImageRecorderSettings.cs
+    ¦   ¦   ¦   ¦   ¦   ImageRecorderSettings.cs.meta
+    ¦   ¦   ¦   ¦   ¦   Resources.meta
+    ¦   ¦   ¦   ¦   ¦   
+    ¦   ¦   ¦   ¦   +---Resources
+    ¦   ¦   ¦   ¦           d_imagesequence_16.png
+    ¦   ¦   ¦   ¦           d_imagesequence_16.png.meta
+    ¦   ¦   ¦   ¦           imagesequence_16.png
+    ¦   ¦   ¦   ¦           imagesequence_16.png.meta
+    ¦   ¦   ¦   ¦           
+    ¦   ¦   ¦   +---MovieRecorder
+    ¦   ¦   ¦   ¦   ¦   MovieRecorder.cs
+    ¦   ¦   ¦   ¦   ¦   MovieRecorder.cs.meta
+    ¦   ¦   ¦   ¦   ¦   MovieRecorderEditor.cs
+    ¦   ¦   ¦   ¦   ¦   MovieRecorderEditor.cs.meta
+    ¦   ¦   ¦   ¦   ¦   MovieRecorderSettings.cs
+    ¦   ¦   ¦   ¦   ¦   MovieRecorderSettings.cs.meta
+    ¦   ¦   ¦   ¦   ¦   Resources.meta
+    ¦   ¦   ¦   ¦   ¦   
+    ¦   ¦   ¦   ¦   +---Resources
+    ¦   ¦   ¦   ¦           d_movie_16.png
+    ¦   ¦   ¦   ¦           d_movie_16.png.meta
+    ¦   ¦   ¦   ¦           movie_16.png
+    ¦   ¦   ¦   ¦           movie_16.png.meta
+    ¦   ¦   ¦   ¦           
+    ¦   ¦   ¦   +---_Inputs
+    ¦   ¦   ¦   ¦   ¦   Animation.meta
+    ¦   ¦   ¦   ¦   ¦   Audio.meta
+    ¦   ¦   ¦   ¦   ¦   Camera.meta
+    ¦   ¦   ¦   ¦   ¦   Camera360.meta
+    ¦   ¦   ¦   ¦   ¦   GameView.meta
+    ¦   ¦   ¦   ¦   ¦   GameViewSize.cs
+    ¦   ¦   ¦   ¦   ¦   GameViewSize.cs.meta
+    ¦   ¦   ¦   ¦   ¦   RenderTexture.meta
+    ¦   ¦   ¦   ¦   ¦   RenderTextureSampler.meta
+    ¦   ¦   ¦   ¦   ¦   
+    ¦   ¦   ¦   ¦   +---Animation
+    ¦   ¦   ¦   ¦   ¦       AnimationInput.cs
+    ¦   ¦   ¦   ¦   ¦       AnimationInput.cs.meta
+    ¦   ¦   ¦   ¦   ¦       AnimationInputSettings.cs
+    ¦   ¦   ¦   ¦   ¦       AnimationInputSettings.cs.meta
+    ¦   ¦   ¦   ¦   ¦       AnimationInputSettingsPropertyDrawer.cs
+    ¦   ¦   ¦   ¦   ¦       AnimationInputSettingsPropertyDrawer.cs.meta
+    ¦   ¦   ¦   ¦   ¦       
+    ¦   ¦   ¦   ¦   +---Audio
+    ¦   ¦   ¦   ¦   ¦       AudioInput.cs
+    ¦   ¦   ¦   ¦   ¦       AudioInput.cs.meta
+    ¦   ¦   ¦   ¦   ¦       AudioInputSettings.cs
+    ¦   ¦   ¦   ¦   ¦       AudioInputSettings.cs.meta
+    ¦   ¦   ¦   ¦   ¦       AudioInputSettingsPropertyDrawer.cs
+    ¦   ¦   ¦   ¦   ¦       AudioInputSettingsPropertyDrawer.cs.meta
+    ¦   ¦   ¦   ¦   ¦       
+    ¦   ¦   ¦   ¦   +---Camera
+    ¦   ¦   ¦   ¦   ¦   ¦   CameraInput.cs
+    ¦   ¦   ¦   ¦   ¦   ¦   CameraInput.cs.meta
+    ¦   ¦   ¦   ¦   ¦   ¦   CameraInputSettings.cs
+    ¦   ¦   ¦   ¦   ¦   ¦   CameraInputSettings.cs.meta
+    ¦   ¦   ¦   ¦   ¦   ¦   CameraInputSettingsPropertyDrawer.cs
+    ¦   ¦   ¦   ¦   ¦   ¦   CameraInputSettingsPropertyDrawer.cs.meta
+    ¦   ¦   ¦   ¦   ¦   ¦   Shaders.meta
+    ¦   ¦   ¦   ¦   ¦   ¦   
+    ¦   ¦   ¦   ¦   ¦   +---Shaders
+    ¦   ¦   ¦   ¦   ¦           CopyFB.shader
+    ¦   ¦   ¦   ¦   ¦           CopyFB.shader.meta
+    ¦   ¦   ¦   ¦   ¦           
+    ¦   ¦   ¦   ¦   +---Camera360
+    ¦   ¦   ¦   ¦   ¦       Camera360Input.cs
+    ¦   ¦   ¦   ¦   ¦       Camera360Input.cs.meta
+    ¦   ¦   ¦   ¦   ¦       Camera360InputPropertyDrawer.cs
+    ¦   ¦   ¦   ¦   ¦       Camera360InputPropertyDrawer.cs.meta
+    ¦   ¦   ¦   ¦   ¦       Camera360InputSettings.cs
+    ¦   ¦   ¦   ¦   ¦       Camera360InputSettings.cs.meta
+    ¦   ¦   ¦   ¦   ¦       
+    ¦   ¦   ¦   ¦   +---GameView
+    ¦   ¦   ¦   ¦   ¦       GameViewInput.cs
+    ¦   ¦   ¦   ¦   ¦       GameViewInput.cs.meta
+    ¦   ¦   ¦   ¦   ¦       GameViewInputPropertyDrawer.cs
+    ¦   ¦   ¦   ¦   ¦       GameViewInputPropertyDrawer.cs.meta
+    ¦   ¦   ¦   ¦   ¦       GameViewInputSettings.cs
+    ¦   ¦   ¦   ¦   ¦       GameViewInputSettings.cs.meta
+    ¦   ¦   ¦   ¦   ¦       
+    ¦   ¦   ¦   ¦   +---RenderTexture
+    ¦   ¦   ¦   ¦   ¦       RenderTextureInput.cs
+    ¦   ¦   ¦   ¦   ¦       RenderTextureInput.cs.meta
+    ¦   ¦   ¦   ¦   ¦       RenderTextureInputSettings.cs
+    ¦   ¦   ¦   ¦   ¦       RenderTextureInputSettings.cs.meta
+    ¦   ¦   ¦   ¦   ¦       RenderTextureInputSettingsPropertyDrawer.cs
+    ¦   ¦   ¦   ¦   ¦       RenderTextureInputSettingsPropertyDrawer.cs.meta
+    ¦   ¦   ¦   ¦   ¦       
+    ¦   ¦   ¦   ¦   +---RenderTextureSampler
+    ¦   ¦   ¦   ¦       ¦   RenderTextureSampler.cs
+    ¦   ¦   ¦   ¦       ¦   RenderTextureSampler.cs.meta
+    ¦   ¦   ¦   ¦       ¦   RenderTextureSamplerPropertyDrawer.cs
+    ¦   ¦   ¦   ¦       ¦   RenderTextureSamplerPropertyDrawer.cs.meta
+    ¦   ¦   ¦   ¦       ¦   RenderTextureSamplerSettings.cs
+    ¦   ¦   ¦   ¦       ¦   RenderTextureSamplerSettings.cs.meta
+    ¦   ¦   ¦   ¦       ¦   Shaders.meta
+    ¦   ¦   ¦   ¦       ¦   
+    ¦   ¦   ¦   ¦       +---Shaders
+    ¦   ¦   ¦   ¦               BS4Accumulate.shader
+    ¦   ¦   ¦   ¦               BS4Accumulate.shader.meta
+    ¦   ¦   ¦   ¦               BS4Normalize.shader
+    ¦   ¦   ¦   ¦               BS4Normalize.shader.meta
+    ¦   ¦   ¦   ¦               BS4SuperShader.shader
+    ¦   ¦   ¦   ¦               BS4SuperShader.shader.meta
+    ¦   ¦   ¦   ¦               
+    ¦   ¦   ¦   +---_Legacy
+    ¦   ¦   ¦       ¦   BaseFCRecorderSettings.cs
+    ¦   ¦   ¦       ¦   BaseFCRecorderSettings.cs.meta
+    ¦   ¦   ¦       ¦   EXR.meta
+    ¦   ¦   ¦       ¦   FrameCapturer.meta
+    ¦   ¦   ¦       ¦   MP4.meta
+    ¦   ¦   ¦       ¦   PNG.meta
+    ¦   ¦   ¦       ¦   WEBM.meta
+    ¦   ¦   ¦       ¦   
+    ¦   ¦   ¦       +---EXR
+    ¦   ¦   ¦       ¦       EXRRecorder.cs
+    ¦   ¦   ¦       ¦       EXRRecorder.cs.meta
+    ¦   ¦   ¦       ¦       EXRRecorderSettings.cs
+    ¦   ¦   ¦       ¦       EXRRecorderSettings.cs.meta
+    ¦   ¦   ¦       ¦       EXRRecorderSettingsEditor.cs
+    ¦   ¦   ¦       ¦       EXRRecorderSettingsEditor.cs.meta
+    ¦   ¦   ¦       ¦       
+    ¦   ¦   ¦       +---FrameCapturer
+    ¦   ¦   ¦       ¦   ¦   Plugins.meta
+    ¦   ¦   ¦       ¦   ¦   Scripts.meta
+    ¦   ¦   ¦       ¦   ¦   
+    ¦   ¦   ¦       ¦   +---Plugins
+    ¦   ¦   ¦       ¦   ¦   ¦   x86.meta
+    ¦   ¦   ¦       ¦   ¦   ¦   x86_64.meta
+    ¦   ¦   ¦       ¦   ¦   ¦   
+    ¦   ¦   ¦       ¦   ¦   +---x86
+    ¦   ¦   ¦       ¦   ¦   ¦       fccore.dll
+    ¦   ¦   ¦       ¦   ¦   ¦       fccore.dll.meta
+    ¦   ¦   ¦       ¦   ¦   ¦       
+    ¦   ¦   ¦       ¦   ¦   +---x86_64
+    ¦   ¦   ¦       ¦   ¦       ¦   fccore.bundle.meta
+    ¦   ¦   ¦       ¦   ¦       ¦   fccore.dll
+    ¦   ¦   ¦       ¦   ¦       ¦   fccore.dll.meta
+    ¦   ¦   ¦       ¦   ¦       ¦   
+    ¦   ¦   ¦       ¦   ¦       +---fccore.bundle
+    ¦   ¦   ¦       ¦   ¦           ¦   Contents.meta
+    ¦   ¦   ¦       ¦   ¦           ¦   
+    ¦   ¦   ¦       ¦   ¦           +---Contents
+    ¦   ¦   ¦       ¦   ¦               ¦   Info.plist
+    ¦   ¦   ¦       ¦   ¦               ¦   Info.plist.meta
+    ¦   ¦   ¦       ¦   ¦               ¦   MacOS.meta
+    ¦   ¦   ¦       ¦   ¦               ¦   
+    ¦   ¦   ¦       ¦   ¦               +---MacOS
+    ¦   ¦   ¦       ¦   ¦                       fccore
+    ¦   ¦   ¦       ¦   ¦                       fccore.meta
+    ¦   ¦   ¦       ¦   ¦                       
+    ¦   ¦   ¦       ¦   +---Scripts
+    ¦   ¦   ¦       ¦       ¦   Encoder.meta
+    ¦   ¦   ¦       ¦       ¦   Misc.meta
+    ¦   ¦   ¦       ¦       ¦   
+    ¦   ¦   ¦       ¦       +---Encoder
+    ¦   ¦   ¦       ¦       ¦       EncoderBase.cs
+    ¦   ¦   ¦       ¦       ¦       EncoderBase.cs.meta
+    ¦   ¦   ¦       ¦       ¦       EXREncoder.cs
+    ¦   ¦   ¦       ¦       ¦       EXREncoder.cs.meta
+    ¦   ¦   ¦       ¦       ¦       fcAPI.cs
+    ¦   ¦   ¦       ¦       ¦       fcAPI.cs.meta
+    ¦   ¦   ¦       ¦       ¦       GIFEncoder.cs
+    ¦   ¦   ¦       ¦       ¦       GIFEncoder.cs.meta
+    ¦   ¦   ¦       ¦       ¦       MovieEncoder.cs
+    ¦   ¦   ¦       ¦       ¦       MovieEncoder.cs.meta
+    ¦   ¦   ¦       ¦       ¦       MP4Encoder.cs
+    ¦   ¦   ¦       ¦       ¦       MP4Encoder.cs.meta
+    ¦   ¦   ¦       ¦       ¦       PNGEncoder.cs
+    ¦   ¦   ¦       ¦       ¦       PNGEncoder.cs.meta
+    ¦   ¦   ¦       ¦       ¦       WEBMEncoder.cs
+    ¦   ¦   ¦       ¦       ¦       WEBMEncoder.cs.meta
+    ¦   ¦   ¦       ¦       ¦       
+    ¦   ¦   ¦       ¦       +---Misc
+    ¦   ¦   ¦       ¦               Bool.cs
+    ¦   ¦   ¦       ¦               Bool.cs.meta
+    ¦   ¦   ¦       ¦               BoolDrawer.cs
+    ¦   ¦   ¦       ¦               BoolDrawer.cs.meta
+    ¦   ¦   ¦       ¦               DataPath.cs
+    ¦   ¦   ¦       ¦               DataPath.cs.meta
+    ¦   ¦   ¦       ¦               DataPathDrawer.cs
+    ¦   ¦   ¦       ¦               DataPathDrawer.cs.meta
+    ¦   ¦   ¦       ¦               
+    ¦   ¦   ¦       +---MP4
+    ¦   ¦   ¦       ¦       MP4Recorder.cs
+    ¦   ¦   ¦       ¦       MP4Recorder.cs.meta
+    ¦   ¦   ¦       ¦       MP4RecorderSettings.cs
+    ¦   ¦   ¦       ¦       MP4RecorderSettings.cs.meta
+    ¦   ¦   ¦       ¦       MP4RecorderSettingsEditor.cs
+    ¦   ¦   ¦       ¦       MP4RecorderSettingsEditor.cs.meta
+    ¦   ¦   ¦       ¦       
+    ¦   ¦   ¦       +---PNG
+    ¦   ¦   ¦       ¦       PNGRecorder.cs
+    ¦   ¦   ¦       ¦       PNGRecorder.cs.meta
+    ¦   ¦   ¦       ¦       PNGRecorderSettings.cs
+    ¦   ¦   ¦       ¦       PNGRecorderSettings.cs.meta
+    ¦   ¦   ¦       ¦       PNGRecorderSettingsEditor.cs
+    ¦   ¦   ¦       ¦       PNGRecorderSettingsEditor.cs.meta
+    ¦   ¦   ¦       ¦       
+    ¦   ¦   ¦       +---WEBM
+    ¦   ¦   ¦               WEBMRecorder.cs
+    ¦   ¦   ¦               WEBMRecorder.cs.meta
+    ¦   ¦   ¦               WEBMRecorderSettings.cs
+    ¦   ¦   ¦               WEBMRecorderSettings.cs.meta
+    ¦   ¦   ¦               WEBMRecorderSettingsEditor.cs
+    ¦   ¦   ¦               WEBMRecorderSettingsEditor.cs.meta
+    ¦   ¦   ¦               
+    ¦   ¦   +---Resources
+    ¦   ¦       ¦   customrecorder_16.png
+    ¦   ¦       ¦   customrecorder_16.png.meta
+    ¦   ¦       ¦   d_customrecorder_16.png
+    ¦   ¦       ¦   d_customrecorder_16.png.meta
+    ¦   ¦       ¦   d_popout_icon.png
+    ¦   ¦       ¦   d_popout_icon.png.meta
+    ¦   ¦       ¦   popout_icon.png
+    ¦   ¦       ¦   popout_icon.png.meta
+    ¦   ¦       ¦   recorder_icon.png
+    ¦   ¦       ¦   recorder_icon.png.meta
+    ¦   ¦       ¦   Styles.meta
+    ¦   ¦       ¦   vertical_gradient.png
+    ¦   ¦       ¦   vertical_gradient.png.meta
+    ¦   ¦       ¦   
+    ¦   ¦       +---Styles
+    ¦   ¦               recorder.uss
+    ¦   ¦               recorder.uss.meta
+    ¦   ¦               recorder_darkSkin.uss
+    ¦   ¦               recorder_darkSkin.uss.meta
+    ¦   ¦               recorder_lightSkin.uss
+    ¦   ¦               recorder_lightSkin.uss.meta
+    ¦   ¦               
+    ¦   +---Timeline
+    ¦           RecorderClip.cs
+    ¦           RecorderClip.cs.meta
+    ¦           RecorderClipEditor.cs
+    ¦           RecorderClipEditor.cs.meta
+    ¦           RecorderPlayableBehaviour.cs
+    ¦           RecorderPlayableBehaviour.cs.meta
+    ¦           RecorderSelector.cs
+    ¦           RecorderSelector.cs.meta
+    ¦           RecorderTrack.cs
+    ¦           RecorderTrack.cs.meta
+    ¦           _WaitForEndOfFrameComponent.cs
+    ¦           _WaitForEndOfFrameComponent.cs.meta
+    ¦           
+    +---Runtime
+    ¦       RecorderBindings.cs
+    ¦       RecorderBindings.cs.meta
+    ¦       SerializedDictionnary.cs
+    ¦       SerializedDictionnary.cs.meta
+    ¦       Unity.Recorder.asmdef
+    ¦       Unity.Recorder.asmdef.meta
+    ¦       
+    +---Samples
+        ¦   Editor.meta
+        ¦   RecorderExample.cs
+        ¦   RecorderExample.cs.meta
+        ¦   Unity.Recorder.Samples.asmdef
+        ¦   Unity.Recorder.Samples.asmdef.meta
+        ¦   
+        +---Editor
+                RecorderEditorExample.cs
+                RecorderEditorExample.cs.meta
+                

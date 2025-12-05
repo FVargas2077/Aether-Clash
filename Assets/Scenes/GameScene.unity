@@ -1981,6 +1981,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 1455994019, guid: b6b0f8ac2de388441a3ffb2157fb37b1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1844201586694569711, guid: b6b0f8ac2de388441a3ffb2157fb37b1,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2298,6 +2302,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_FontData.m_FontSize
       value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 573380829, guid: b6b0f8ac2de388441a3ffb2157fb37b1, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 386
+      objectReference: {fileID: 0}
+    - target: {fileID: 573380829, guid: b6b0f8ac2de388441a3ffb2157fb37b1, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 573380829, guid: b6b0f8ac2de388441a3ffb2157fb37b1, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 835774555, guid: b6b0f8ac2de388441a3ffb2157fb37b1, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 835774555, guid: b6b0f8ac2de388441a3ffb2157fb37b1, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b6b0f8ac2de388441a3ffb2157fb37b1, type: 3}
